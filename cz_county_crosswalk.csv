@@ -1,0 +1,3139 @@
+cz,state,county,czname
+100,47,19,Johnson City
+100,47,59,Johnson City
+100,47,73,Johnson City
+100,47,163,Johnson City
+100,47,171,Johnson City
+100,47,179,Johnson City
+100,51,169,Johnson City
+100,51,173,Johnson City
+100,51,191,Johnson City
+100,51,520,Johnson City
+200,47,29,Morristown
+200,47,57,Morristown
+200,47,63,Morristown
+200,47,89,Morristown
+200,47,155,Morristown
+301,21,13,Middlesborough
+301,47,25,Middlesborough
+301,47,67,Middlesborough
+302,47,1,Knoxville
+302,47,9,Knoxville
+302,47,13,Knoxville
+302,47,93,Knoxville
+302,47,105,Knoxville
+302,47,129,Knoxville
+302,47,145,Knoxville
+302,47,173,Knoxville
+401,37,59,Winston-Salem
+401,37,67,Winston-Salem
+401,37,169,Winston-Salem
+401,37,171,Winston-Salem
+401,37,197,Winston-Salem
+402,51,89,Martinsville
+402,51,141,Martinsville
+402,51,690,Martinsville
+500,37,1,Greensboro
+500,37,33,Greensboro
+500,37,57,Greensboro
+500,37,81,Greensboro
+500,37,151,Greensboro
+500,37,157,Greensboro
+500,51,143,Greensboro
+500,51,590,Greensboro
+601,37,9,North Wilkesboro
+601,37,193,North Wilkesboro
+602,37,5,Galax
+602,51,35,Galax
+602,51,77,Galax
+602,51,640,Galax
+700,37,149,Spartanburg
+700,45,21,Spartanburg
+700,45,83,Spartanburg
+700,45,87,Spartanburg
+800,37,45,Gastonia
+800,37,71,Gastonia
+800,37,109,Gastonia
+800,37,161,Gastonia
+900,37,7,Charlotte
+900,37,25,Charlotte
+900,37,119,Charlotte
+900,37,159,Charlotte
+900,37,167,Charlotte
+900,37,179,Charlotte
+900,45,23,Charlotte
+900,45,57,Charlotte
+900,45,91,Charlotte
+1001,37,11,Boone
+1001,37,189,Boone
+1001,47,91,Boone
+1002,37,23,Morganton
+1002,37,111,Morganton
+1002,37,121,Morganton
+1002,37,199,Morganton
+1100,37,3,Hickory
+1100,37,27,Hickory
+1100,37,35,Hickory
+1100,37,97,Hickory
+1201,13,241,Franklin
+1201,37,113,Franklin
+1202,37,75,Sylva
+1202,37,99,Sylva
+1202,37,173,Sylva
+1203,37,21,Asheville
+1203,37,87,Asheville
+1203,37,89,Asheville
+1203,37,115,Asheville
+1203,37,175,Asheville
+1204,13,281,Andrews
+1204,13,291,Andrews
+1204,37,39,Andrews
+1204,37,43,Andrews
+1301,45,25,Bennettsville
+1301,45,69,Bennettsville
+1302,45,31,Florence
+1302,45,33,Florence
+1302,45,41,Florence
+1302,45,43,Florence
+1302,45,51,Florence
+1302,45,67,Florence
+1302,45,89,Florence
+1400,37,51,Fayetteville
+1400,37,93,Fayetteville
+1400,37,123,Fayetteville
+1400,37,125,Fayetteville
+1400,37,153,Fayetteville
+1400,37,155,Fayetteville
+1400,37,165,Fayetteville
+1500,37,17,Wilmington
+1500,37,19,Wilmington
+1500,37,47,Wilmington
+1500,37,129,Wilmington
+1500,37,141,Wilmington
+1600,37,65,Wilson
+1600,37,127,Wilson
+1600,37,195,Wilson
+1701,37,37,Raleigh
+1701,37,63,Raleigh
+1701,37,69,Raleigh
+1701,37,77,Raleigh
+1701,37,85,Raleigh
+1701,37,101,Raleigh
+1701,37,105,Raleigh
+1701,37,135,Raleigh
+1701,37,145,Raleigh
+1701,37,183,Raleigh
+1702,37,181,Henderson
+1702,37,185,Henderson
+1800,37,61,Goldsboro
+1800,37,163,Goldsboro
+1800,37,191,Goldsboro
+1900,37,31,Jacksonville
+1900,37,49,Jacksonville
+1900,37,79,Jacksonville
+1900,37,103,Jacksonville
+1900,37,107,Jacksonville
+1900,37,133,Jacksonville
+1900,37,137,Jacksonville
+1900,37,147,Jacksonville
+2000,37,29,Virginia Beach
+2000,37,41,Virginia Beach
+2000,37,53,Virginia Beach
+2000,37,73,Virginia Beach
+2000,37,139,Virginia Beach
+2000,37,143,Virginia Beach
+2000,51,550,Virginia Beach
+2000,51,710,Virginia Beach
+2000,51,740,Virginia Beach
+2000,51,800,Virginia Beach
+2000,51,810,Virginia Beach
+2100,37,13,Washington
+2100,37,55,Washington
+2100,37,95,Washington
+2100,37,117,Washington
+2100,37,177,Washington
+2100,37,187,Washington
+2200,51,25,South Boston
+2200,51,37,South Boston
+2200,51,49,South Boston
+2200,51,83,South Boston
+2200,51,111,South Boston
+2200,51,117,South Boston
+2200,51,135,South Boston
+2200,51,147,South Boston
+2300,51,9,Lynchburg
+2300,51,11,Lynchburg
+2300,51,19,Lynchburg
+2300,51,31,Lynchburg
+2300,51,680,Lynchburg
+2400,51,7,Richmond
+2400,51,36,Richmond
+2400,51,41,Richmond
+2400,51,53,Richmond
+2400,51,75,Richmond
+2400,51,85,Richmond
+2400,51,87,Richmond
+2400,51,97,Richmond
+2400,51,101,Richmond
+2400,51,127,Richmond
+2400,51,145,Richmond
+2400,51,149,Richmond
+2400,51,183,Richmond
+2400,51,570,Richmond
+2400,51,670,Richmond
+2400,51,730,Richmond
+2400,51,760,Richmond
+2500,51,73,Newport News
+2500,51,93,Newport News
+2500,51,95,Newport News
+2500,51,115,Newport News
+2500,51,119,Newport News
+2500,51,175,Newport News
+2500,51,181,Newport News
+2500,51,199,Newport News
+2500,51,620,Newport News
+2500,51,650,Newport News
+2500,51,700,Newport News
+2500,51,735,Newport News
+2500,51,830,Newport News
+2600,37,15,Roanoke Rapids
+2600,37,83,Roanoke Rapids
+2600,37,91,Roanoke Rapids
+2600,37,131,Roanoke Rapids
+2600,51,81,Roanoke Rapids
+2600,51,595,Roanoke Rapids
+2700,28,39,Gulfport
+2700,28,41,Gulfport
+2700,28,45,Gulfport
+2700,28,47,Gulfport
+2700,28,59,Gulfport
+2700,28,109,Gulfport
+2700,28,131,Gulfport
+2800,28,61,Laurel
+2800,28,67,Laurel
+2800,28,129,Laurel
+2800,28,153,Laurel
+2900,28,31,Hattiesburg
+2900,28,35,Hattiesburg
+2900,28,65,Hattiesburg
+2900,28,73,Hattiesburg
+2900,28,111,Hattiesburg
+3001,28,7,Kosciusko
+3001,28,51,Kosciusko
+3002,28,53,Yazoo City
+3002,28,163,Yazoo City
+3003,28,29,Jackson
+3003,28,49,Jackson
+3003,28,79,Jackson
+3003,28,89,Jackson
+3003,28,121,Jackson
+3003,28,123,Jackson
+3003,28,127,Jackson
+3101,28,5,McComb
+3101,28,91,McComb
+3101,28,113,McComb
+3101,28,147,McComb
+3101,28,157,McComb
+3102,28,77,Brookhaven
+3102,28,85,Brookhaven
+3201,22,25,Jena
+3201,22,59,Jena
+3202,22,29,Natchez
+3202,22,107,Natchez
+3202,28,1,Natchez
+3202,28,37,Natchez
+3203,22,65,Vicksburg
+3203,28,21,Vicksburg
+3203,28,63,Vicksburg
+3203,28,149,Vicksburg
+3300,22,51,New Orleans
+3300,22,71,New Orleans
+3300,22,75,New Orleans
+3300,22,87,New Orleans
+3300,22,89,New Orleans
+3300,22,93,New Orleans
+3300,22,95,New Orleans
+3300,22,103,New Orleans
+3300,22,117,New Orleans
+3400,22,7,Houma
+3400,22,57,Houma
+3400,22,101,Houma
+3400,22,109,Houma
+3500,22,5,Baton Rouge
+3500,22,33,Baton Rouge
+3500,22,37,Baton Rouge
+3500,22,47,Baton Rouge
+3500,22,63,Baton Rouge
+3500,22,77,Baton Rouge
+3500,22,91,Baton Rouge
+3500,22,105,Baton Rouge
+3500,22,121,Baton Rouge
+3500,22,125,Baton Rouge
+3600,22,9,Alexandria
+3600,22,43,Alexandria
+3600,22,79,Alexandria
+3700,22,3,Lake Charles
+3700,22,11,Lake Charles
+3700,22,19,Lake Charles
+3700,22,23,Lake Charles
+3700,22,53,Lake Charles
+3700,22,115,Lake Charles
+3800,22,1,Lafayette
+3800,22,39,Lafayette
+3800,22,45,Lafayette
+3800,22,55,Lafayette
+3800,22,97,Lafayette
+3800,22,99,Lafayette
+3800,22,113,Lafayette
+3901,22,21,Monroe
+3901,22,41,Monroe
+3901,22,67,Monroe
+3901,22,73,Monroe
+3901,22,83,Monroe
+3901,22,111,Monroe
+3902,22,35,Lake Providence
+3902,22,123,Lake Providence
+4001,5,27,Magnolia
+4001,5,73,Magnolia
+4002,22,13,Shreveport
+4002,22,15,Shreveport
+4002,22,17,Shreveport
+4002,22,27,Shreveport
+4002,22,31,Shreveport
+4002,22,69,Shreveport
+4002,22,81,Shreveport
+4002,22,119,Shreveport
+4003,22,49,Ruston
+4003,22,61,Ruston
+4003,22,127,Ruston
+4004,22,85,Many
+4101,5,3,Crossett
+4102,5,11,Pine Bluff
+4102,5,17,Pine Bluff
+4102,5,25,Pine Bluff
+4102,5,41,Pine Bluff
+4102,5,43,Pine Bluff
+4102,5,69,Pine Bluff
+4102,5,79,Pine Bluff
+4103,5,13,El Dorado
+4103,5,39,El Dorado
+4103,5,103,El Dorado
+4103,5,139,El Dorado
+4200,5,29,Little Rock
+4200,5,45,Little Rock
+4200,5,53,Little Rock
+4200,5,85,Little Rock
+4200,5,105,Little Rock
+4200,5,119,Little Rock
+4200,5,125,Little Rock
+4301,5,1,Stuttgart
+4301,5,95,Stuttgart
+4301,5,117,Stuttgart
+4302,5,67,Searcy
+4302,5,145,Searcy
+4302,5,147,Searcy
+4401,21,51,London
+4401,21,121,London
+4401,21,125,London
+4401,21,235,London
+4402,21,65,Richmond
+4402,21,109,Richmond
+4402,21,151,Richmond
+4402,21,203,Richmond
+4501,21,25,West Liberty
+4501,21,129,West Liberty
+4501,21,175,West Liberty
+4501,21,189,West Liberty
+4501,21,237,West Liberty
+4502,21,95,Hazard
+4502,21,119,Hazard
+4502,21,131,Hazard
+4502,21,133,Hazard
+4502,21,193,Hazard
+4601,21,1,Campbellsville
+4601,21,45,Campbellsville
+4601,21,87,Campbellsville
+4601,21,207,Campbellsville
+4601,21,217,Campbellsville
+4602,21,53,Somerset
+4602,21,147,Somerset
+4602,21,199,Somerset
+4602,21,231,Somerset
+4602,47,151,Somerset
+4701,28,15,Greenwood
+4701,28,43,Greenwood
+4701,28,83,Greenwood
+4701,28,97,Greenwood
+4702,28,27,Clarksdale
+4702,28,71,Clarksdale
+4702,28,107,Clarksdale
+4702,28,119,Clarksdale
+4702,28,135,Clarksdale
+4702,28,161,Clarksdale
+4800,28,11,Greenville
+4800,28,55,Greenville
+4800,28,125,Greenville
+4800,28,133,Greenville
+4800,28,151,Greenville
+4901,47,23,Jackson
+4901,47,33,Jackson
+4901,47,53,Jackson
+4901,47,69,Jackson
+4901,47,113,Jackson
+4902,47,45,Dyersburg
+4902,47,75,Dyersburg
+4902,47,95,Dyersburg
+4902,47,97,Dyersburg
+4903,47,39,Lexington
+4903,47,77,Lexington
+4903,47,135,Lexington
+5000,28,13,Tupelo
+5000,28,17,Tupelo
+5000,28,57,Tupelo
+5000,28,81,Tupelo
+5000,28,95,Tupelo
+5000,28,115,Tupelo
+5100,28,3,Corinth
+5100,28,117,Corinth
+5100,28,141,Corinth
+5100,47,71,Corinth
+5100,47,109,Corinth
+5201,28,9,New Albany
+5201,28,139,New Albany
+5201,28,145,New Albany
+5202,28,33,Memphis
+5202,28,93,Memphis
+5202,28,137,Memphis
+5202,28,143,Memphis
+5202,47,47,Memphis
+5202,47,157,Memphis
+5202,47,167,Memphis
+5300,5,35,West Memphis
+5300,5,37,West Memphis
+5300,5,77,West Memphis
+5300,5,107,West Memphis
+5300,5,123,West Memphis
+5401,21,3,Bowling Green
+5401,21,61,Bowling Green
+5401,21,141,Bowling Green
+5401,21,213,Bowling Green
+5401,21,227,Bowling Green
+5402,21,9,Glasgow
+5402,21,57,Glasgow
+5402,21,99,Glasgow
+5402,21,169,Glasgow
+5402,21,171,Glasgow
+5402,47,27,Glasgow
+5500,47,55,Columbia
+5500,47,81,Columbia
+5500,47,101,Columbia
+5500,47,117,Columbia
+5500,47,119,Columbia
+5600,47,15,Nashville
+5600,47,21,Nashville
+5600,47,37,Nashville
+5600,47,111,Nashville
+5600,47,147,Nashville
+5600,47,149,Nashville
+5600,47,159,Nashville
+5600,47,165,Nashville
+5600,47,169,Nashville
+5600,47,187,Nashville
+5600,47,189,Nashville
+5700,47,3,Tullahoma
+5700,47,31,Tullahoma
+5700,47,51,Tullahoma
+5700,47,127,Tullahoma
+5800,47,5,Dickson
+5800,47,17,Dickson
+5800,47,43,Dickson
+5800,47,79,Dickson
+5800,47,85,Dickson
+5900,21,47,Clarksville
+5900,21,219,Clarksville
+5900,21,221,Clarksville
+5900,47,83,Clarksville
+5900,47,125,Clarksville
+5900,47,161,Clarksville
+6000,1,79,Huntsville
+6000,1,83,Huntsville
+6000,1,89,Huntsville
+6000,1,103,Huntsville
+6000,47,103,Huntsville
+6100,1,49,Gadsden
+6100,1,55,Gadsden
+6100,1,71,Gadsden
+6100,1,95,Gadsden
+6200,1,33,Florence
+6200,1,59,Florence
+6200,1,77,Florence
+6200,47,99,Florence
+6200,47,181,Florence
+6301,47,41,McMinnville
+6301,47,175,McMinnville
+6301,47,177,McMinnville
+6301,47,185,McMinnville
+6302,47,87,Cookeville
+6302,47,133,Cookeville
+6302,47,137,Cookeville
+6302,47,141,Cookeville
+6401,13,47,Chattanooga
+6401,13,83,Chattanooga
+6401,13,295,Chattanooga
+6401,47,61,Chattanooga
+6401,47,65,Chattanooga
+6401,47,115,Chattanooga
+6401,47,153,Chattanooga
+6402,47,7,Crossville
+6402,47,35,Crossville
+6402,47,49,Crossville
+6402,47,143,Crossville
+6501,13,111,Ellijay
+6501,13,123,Ellijay
+6502,47,11,Cleveland
+6502,47,107,Cleveland
+6502,47,121,Cleveland
+6502,47,123,Cleveland
+6502,47,139,Cleveland
+6600,1,19,Rome
+6600,13,15,Rome
+6600,13,55,Rome
+6600,13,115,Rome
+6600,13,129,Rome
+6600,13,213,Rome
+6600,13,233,Rome
+6600,13,313,Rome
+6700,12,53,Tampa
+6700,12,57,Tampa
+6700,12,101,Tampa
+6700,12,103,Tampa
+6800,12,49,Lakeland
+6800,12,55,Lakeland
+6800,12,105,Lakeland
+6900,12,15,Sarasota
+6900,12,27,Sarasota
+6900,12,81,Sarasota
+6900,12,115,Sarasota
+7000,12,11,Miami
+7000,12,86,Miami
+7000,12,87,Miami
+7100,12,43,Port St. Lucie
+7100,12,51,Port St. Lucie
+7100,12,85,Port St. Lucie
+7100,12,93,Port St. Lucie
+7100,12,99,Port St. Lucie
+7100,12,111,Port St. Lucie
+7200,12,21,Cape Coral
+7200,12,71,Cape Coral
+7300,12,9,Palm Bay
+7300,12,61,Palm Bay
+7400,12,69,Orlando
+7400,12,95,Orlando
+7400,12,97,Orlando
+7400,12,117,Orlando
+7400,12,119,Orlando
+7500,12,35,Deltona
+7500,12,107,Deltona
+7500,12,127,Deltona
+7600,12,3,Jacksonville
+7600,12,19,Jacksonville
+7600,12,31,Jacksonville
+7600,12,89,Jacksonville
+7600,12,109,Jacksonville
+7600,13,39,Jacksonville
+7600,13,49,Jacksonville
+7700,12,23,Lake City
+7700,12,47,Lake City
+7700,12,67,Lake City
+7700,12,79,Lake City
+7700,12,121,Lake City
+7700,12,123,Lake City
+7800,12,17,Ocala
+7800,12,83,Ocala
+7900,12,1,Gainesville
+7900,12,7,Gainesville
+7900,12,29,Gainesville
+7900,12,41,Gainesville
+7900,12,75,Gainesville
+7900,12,125,Gainesville
+8000,45,27,Sumter
+8000,45,55,Sumter
+8000,45,61,Sumter
+8000,45,85,Sumter
+8100,45,17,Columbia
+8100,45,39,Columbia
+8100,45,63,Columbia
+8100,45,71,Columbia
+8100,45,75,Columbia
+8100,45,79,Columbia
+8100,45,81,Columbia
+8201,45,5,Barnwell
+8201,45,9,Barnwell
+8201,45,11,Barnwell
+8201,45,49,Barnwell
+8202,45,15,Charleston
+8202,45,19,Charleston
+8202,45,29,Charleston
+8202,45,35,Charleston
+8300,45,1,Greenville
+8300,45,7,Greenville
+8300,45,45,Greenville
+8300,45,47,Greenville
+8300,45,59,Greenville
+8300,45,65,Greenville
+8300,45,73,Greenville
+8300,45,77,Greenville
+8401,13,33,Aiken
+8401,13,73,Aiken
+8401,13,125,Aiken
+8401,13,163,Aiken
+8401,13,189,Aiken
+8401,13,245,Aiken
+8401,13,301,Aiken
+8401,45,3,Aiken
+8401,45,37,Aiken
+8402,13,133,Washington
+8402,13,181,Washington
+8402,13,265,Washington
+8402,13,317,Washington
+8501,13,17,Fitzgerald
+8501,13,155,Fitzgerald
+8502,13,81,Cordele
+8502,13,93,Cordele
+8502,13,315,Cordele
+8503,13,19,Valdosta
+8503,13,27,Valdosta
+8503,13,71,Valdosta
+8503,13,75,Valdosta
+8503,13,101,Valdosta
+8503,13,173,Valdosta
+8503,13,185,Valdosta
+8503,13,277,Valdosta
+8503,13,287,Valdosta
+8601,13,3,Waycross
+8601,13,5,Waycross
+8601,13,65,Waycross
+8601,13,69,Waycross
+8601,13,229,Waycross
+8601,13,299,Waycross
+8602,13,25,Brunswick
+8602,13,127,Brunswick
+8602,13,191,Brunswick
+8701,13,109,Hinesville
+8701,13,179,Hinesville
+8701,13,183,Hinesville
+8701,13,267,Hinesville
+8701,13,305,Hinesville
+8702,13,31,Statesboro
+8702,13,43,Statesboro
+8702,13,107,Statesboro
+8702,13,165,Statesboro
+8702,13,251,Statesboro
+8800,13,29,Savannah
+8800,13,51,Savannah
+8800,13,103,Savannah
+8800,45,13,Savannah
+8800,45,53,Savannah
+8900,13,21,Macon
+8900,13,23,Macon
+8900,13,79,Macon
+8900,13,153,Macon
+8900,13,169,Macon
+8900,13,207,Macon
+8900,13,225,Macon
+8900,13,235,Macon
+8900,13,269,Macon
+8900,13,289,Macon
+9001,13,1,Vidalia
+9001,13,91,Vidalia
+9001,13,161,Vidalia
+9001,13,209,Vidalia
+9001,13,271,Vidalia
+9001,13,279,Vidalia
+9001,13,283,Vidalia
+9001,13,309,Vidalia
+9002,13,9,Milledgeville
+9002,13,141,Milledgeville
+9002,13,237,Milledgeville
+9002,13,319,Milledgeville
+9003,13,167,Dublin
+9003,13,175,Dublin
+9003,13,303,Dublin
+9100,13,57,Atlanta
+9100,13,63,Atlanta
+9100,13,67,Atlanta
+9100,13,85,Atlanta
+9100,13,89,Atlanta
+9100,13,97,Atlanta
+9100,13,113,Atlanta
+9100,13,117,Atlanta
+9100,13,121,Atlanta
+9100,13,135,Atlanta
+9100,13,151,Atlanta
+9100,13,159,Atlanta
+9100,13,211,Atlanta
+9100,13,217,Atlanta
+9100,13,223,Atlanta
+9100,13,227,Atlanta
+9100,13,247,Atlanta
+9100,13,297,Atlanta
+9200,13,35,Griffin
+9200,13,171,Griffin
+9200,13,231,Griffin
+9200,13,255,Griffin
+9200,13,293,Griffin
+9301,13,13,Winder
+9301,13,59,Winder
+9301,13,195,Winder
+9301,13,219,Winder
+9301,13,221,Winder
+9302,13,105,Toccoa
+9302,13,119,Toccoa
+9302,13,147,Toccoa
+9302,13,257,Toccoa
+9400,13,11,Gainesville
+9400,13,137,Gainesville
+9400,13,139,Gainesville
+9400,13,157,Gainesville
+9400,13,187,Gainesville
+9400,13,311,Gainesville
+9500,1,27,Talladega
+9500,1,37,Talladega
+9500,1,121,Talladega
+9500,1,123,Talladega
+9600,1,15,LaGrange
+9600,1,17,LaGrange
+9600,1,29,LaGrange
+9600,1,111,LaGrange
+9600,13,45,LaGrange
+9600,13,77,LaGrange
+9600,13,143,LaGrange
+9600,13,149,LaGrange
+9600,13,285,LaGrange
+9701,1,113,Columbus
+9701,13,53,Columbus
+9701,13,145,Columbus
+9701,13,199,Columbus
+9701,13,215,Columbus
+9701,13,263,Columbus
+9702,13,193,Americus
+9702,13,197,Americus
+9702,13,249,Americus
+9702,13,259,Americus
+9702,13,261,Americus
+9702,13,307,Americus
+9800,1,11,Auburn
+9800,1,81,Auburn
+9800,1,87,Auburn
+9900,12,13,Tallahassee
+9900,12,39,Tallahassee
+9900,12,59,Tallahassee
+9900,12,63,Tallahassee
+9900,12,65,Tallahassee
+9900,12,73,Tallahassee
+9900,12,77,Tallahassee
+9900,12,129,Tallahassee
+9900,12,133,Tallahassee
+10000,12,5,Panama City
+10000,12,37,Panama City
+10000,12,45,Panama City
+10101,13,87,Bainbridge
+10101,13,201,Bainbridge
+10101,13,253,Bainbridge
+10102,13,131,Thomasville
+10102,13,275,Thomasville
+10200,13,7,Albany
+10200,13,95,Albany
+10200,13,177,Albany
+10200,13,205,Albany
+10200,13,273,Albany
+10200,13,321,Albany
+10301,1,5,Eufaula
+10301,13,37,Eufaula
+10301,13,61,Eufaula
+10301,13,99,Eufaula
+10301,13,239,Eufaula
+10301,13,243,Eufaula
+10302,1,31,Dothan
+10302,1,45,Dothan
+10302,1,61,Dothan
+10302,1,67,Dothan
+10302,1,69,Dothan
+10400,28,23,Meridian
+10400,28,69,Meridian
+10400,28,75,Meridian
+10400,28,99,Meridian
+10400,28,101,Meridian
+10501,1,107,Columbus
+10501,28,87,Columbus
+10501,28,103,Columbus
+10502,28,19,Starkville
+10502,28,25,Starkville
+10502,28,105,Starkville
+10502,28,155,Starkville
+10502,28,159,Starkville
+10600,1,57,Jasper
+10600,1,75,Jasper
+10600,1,93,Jasper
+10600,1,127,Jasper
+10600,1,133,Jasper
+10700,1,9,Birmingham
+10700,1,21,Birmingham
+10700,1,43,Birmingham
+10700,1,73,Birmingham
+10700,1,115,Birmingham
+10700,1,117,Birmingham
+10801,1,7,Tuscaloosa
+10801,1,47,Tuscaloosa
+10801,1,65,Tuscaloosa
+10801,1,105,Tuscaloosa
+10801,1,125,Tuscaloosa
+10802,1,23,Demopolis
+10802,1,63,Demopolis
+10802,1,91,Demopolis
+10802,1,119,Demopolis
+10900,12,33,Pensacola
+10900,12,91,Pensacola
+10900,12,113,Pensacola
+10900,12,131,Pensacola
+11001,1,3,Mobile
+11001,1,25,Mobile
+11001,1,97,Mobile
+11001,1,129,Mobile
+11001,1,131,Mobile
+11002,1,35,Atmore
+11002,1,53,Atmore
+11002,1,99,Atmore
+11101,1,1,Montgomery
+11101,1,13,Montgomery
+11101,1,51,Montgomery
+11101,1,85,Montgomery
+11101,1,101,Montgomery
+11102,1,39,Troy
+11102,1,41,Troy
+11102,1,109,Troy
+11201,51,21,Bluefield
+11201,51,27,Bluefield
+11201,51,167,Bluefield
+11201,51,185,Bluefield
+11201,51,197,Bluefield
+11201,54,55,Bluefield
+11202,54,47,Welch
+11202,54,109,Welch
+11203,51,51,Big Stone Gap
+11203,51,105,Big Stone Gap
+11203,51,195,Big Stone Gap
+11203,51,720,Big Stone Gap
+11301,51,33,Fredericksburg
+11301,51,99,Fredericksburg
+11301,51,177,Fredericksburg
+11301,51,179,Fredericksburg
+11301,51,630,Fredericksburg
+11302,24,3,Baltimore
+11302,24,5,Baltimore
+11302,24,13,Baltimore
+11302,24,25,Baltimore
+11302,24,27,Baltimore
+11302,24,510,Baltimore
+11303,51,57,Colonial Beach
+11303,51,103,Colonial Beach
+11303,51,133,Colonial Beach
+11303,51,159,Colonial Beach
+11303,51,193,Colonial Beach
+11304,11,1,Washington DC
+11304,24,9,Washington DC
+11304,24,17,Washington DC
+11304,24,21,Washington DC
+11304,24,31,Washington DC
+11304,24,33,Washington DC
+11304,24,37,Washington DC
+11304,51,13,Washington DC
+11304,51,59,Washington DC
+11304,51,61,Washington DC
+11304,51,107,Washington DC
+11304,51,153,Washington DC
+11304,51,157,Washington DC
+11304,51,187,Washington DC
+11304,51,510,Washington DC
+11304,51,600,Washington DC
+11304,51,610,Washington DC
+11304,51,683,Washington DC
+11304,51,685,Washington DC
+11401,26,3,Marquette
+11401,26,41,Marquette
+11401,26,103,Marquette
+11401,26,153,Marquette
+11402,26,43,Marinette
+11402,26,71,Marinette
+11402,26,109,Marinette
+11402,55,37,Marinette
+11402,55,75,Marinette
+11403,26,33,Sault Ste. Marie
+11403,26,95,Sault Ste. Marie
+11403,26,97,Sault Ste. Marie
+11500,26,59,Jackson
+11500,26,75,Jackson
+11500,26,91,Jackson
+11600,26,49,Detroit
+11600,26,87,Detroit
+11600,26,93,Detroit
+11600,26,99,Detroit
+11600,26,125,Detroit
+11600,26,147,Detroit
+11600,26,151,Detroit
+11600,26,155,Detroit
+11600,26,161,Detroit
+11600,26,163,Detroit
+11700,26,37,Lansing
+11700,26,45,Lansing
+11700,26,65,Lansing
+11800,26,35,Mount Pleasant
+11800,26,57,Mount Pleasant
+11800,26,73,Mount Pleasant
+11900,26,11,Saginaw
+11900,26,17,Saginaw
+11900,26,51,Saginaw
+11900,26,63,Saginaw
+11900,26,111,Saginaw
+11900,26,145,Saginaw
+11900,26,157,Saginaw
+12001,26,85,Big Rapids
+12001,26,107,Big Rapids
+12001,26,113,Big Rapids
+12001,26,133,Big Rapids
+12001,26,165,Big Rapids
+12002,26,101,Ludington
+12002,26,105,Ludington
+12100,26,15,Kalamazoo
+12100,26,25,Kalamazoo
+12100,26,77,Kalamazoo
+12100,26,159,Kalamazoo
+12200,26,5,Grand Rapids
+12200,26,67,Grand Rapids
+12200,26,81,Grand Rapids
+12200,26,117,Grand Rapids
+12200,26,121,Grand Rapids
+12200,26,123,Grand Rapids
+12200,26,127,Grand Rapids
+12200,26,139,Grand Rapids
+12301,26,9,Traverse City
+12301,26,19,Traverse City
+12301,26,55,Traverse City
+12301,26,79,Traverse City
+12301,26,89,Traverse City
+12302,26,29,Petoskey
+12302,26,31,Petoskey
+12302,26,47,Petoskey
+12401,26,1,Alpena
+12401,26,7,Alpena
+12401,26,69,Alpena
+12401,26,141,Alpena
+12402,26,39,Grayling charter
+12402,26,119,Grayling charter
+12402,26,129,Grayling charter
+12402,26,135,Grayling charter
+12402,26,137,Grayling charter
+12402,26,143,Grayling charter
+12501,39,21,Dayton
+12501,39,23,Dayton
+12501,39,37,Dayton
+12501,39,57,Dayton
+12501,39,91,Dayton
+12501,39,109,Dayton
+12501,39,113,Dayton
+12501,39,135,Dayton
+12501,39,149,Dayton
+12502,39,27,Washington Court House
+12502,39,47,Washington Court House
+12502,39,71,Washington Court House
+12600,18,41,Wayne
+12600,18,161,Wayne
+12600,18,177,Wayne
+12701,21,15,Cincinnati
+12701,21,37,Cincinnati
+12701,21,77,Cincinnati
+12701,21,81,Cincinnati
+12701,21,117,Cincinnati
+12701,21,191,Cincinnati
+12701,39,1,Cincinnati
+12701,39,15,Cincinnati
+12701,39,17,Cincinnati
+12701,39,25,Cincinnati
+12701,39,61,Cincinnati
+12701,39,165,Cincinnati
+12702,21,23,Maysville
+12702,21,69,Maysville
+12702,21,135,Maysville
+12702,21,161,Maysville
+12800,18,29,Washington
+12800,18,31,Washington
+12800,18,47,Washington
+12800,18,115,Washington
+12800,18,137,Washington
+12800,18,155,Washington
+12901,21,5,Lexington-Fayette
+12901,21,17,Lexington-Fayette
+12901,21,49,Lexington-Fayette
+12901,21,67,Lexington-Fayette
+12901,21,73,Lexington-Fayette
+12901,21,97,Lexington-Fayette
+12901,21,113,Lexington-Fayette
+12901,21,181,Lexington-Fayette
+12901,21,187,Lexington-Fayette
+12901,21,197,Lexington-Fayette
+12901,21,201,Lexington-Fayette
+12901,21,209,Lexington-Fayette
+12901,21,239,Lexington-Fayette
+12902,21,11,Mount Sterling
+12902,21,165,Mount Sterling
+12902,21,173,Mount Sterling
+12903,21,21,Danville
+12903,21,79,Danville
+12903,21,137,Danville
+12903,21,167,Danville
+13000,21,27,Elizabethtown
+13000,21,85,Elizabethtown
+13000,21,93,Elizabethtown
+13000,21,123,Elizabethtown
+13000,21,163,Elizabethtown
+13101,18,19,Louisville
+13101,18,25,Louisville
+13101,18,43,Louisville
+13101,18,61,Louisville
+13101,18,175,Louisville
+13101,21,29,Louisville
+13101,21,103,Louisville
+13101,21,111,Louisville
+13101,21,185,Louisville
+13101,21,211,Louisville
+13101,21,215,Louisville
+13102,18,77,Madison
+13102,21,41,Madison
+13102,21,223,Madison
+13103,21,155,Bardstown
+13103,21,179,Bardstown
+13103,21,229,Bardstown
+13200,21,31,Owensboro
+13200,21,59,Owensboro
+13200,21,91,Owensboro
+13200,21,149,Owensboro
+13200,21,177,Owensboro
+13200,21,183,Owensboro
+13300,39,63,Findlay
+13300,39,65,Findlay
+13300,39,143,Findlay
+13300,39,147,Findlay
+13300,39,175,Findlay
+13400,39,3,Lima
+13400,39,11,Lima
+13400,39,107,Lima
+13400,39,137,Lima
+13400,39,161,Lima
+13501,26,115,Toledo
+13501,39,51,Toledo
+13501,39,69,Toledo
+13501,39,95,Toledo
+13501,39,123,Toledo
+13501,39,173,Toledo
+13502,39,39,Defiance
+13502,39,125,Defiance
+13502,39,171,Defiance
+13600,18,91,South Bend
+13600,18,99,South Bend
+13600,18,141,South Bend
+13600,18,149,South Bend
+13600,26,21,South Bend
+13600,26,27,South Bend
+13700,18,39,Concord
+13700,18,87,Concord
+13700,18,113,Concord
+13700,26,23,Concord
+13700,26,149,Concord
+13800,18,49,Wayne
+13800,18,85,Wayne
+13800,18,169,Wayne
+13900,18,17,Center
+13900,18,67,Center
+13900,18,103,Center
+13900,18,131,Center
+13900,18,159,Center
+14000,18,9,Muncie
+14000,18,35,Muncie
+14000,18,53,Muncie
+14000,18,65,Muncie
+14000,18,95,Muncie
+14000,18,135,Muncie
+14100,18,1,Fort Wayne
+14100,18,3,Fort Wayne
+14100,18,33,Fort Wayne
+14100,18,69,Fort Wayne
+14100,18,75,Fort Wayne
+14100,18,151,Fort Wayne
+14100,18,179,Fort Wayne
+14100,18,183,Fort Wayne
+14200,18,11,Indianapolis
+14200,18,13,Indianapolis
+14200,18,57,Indianapolis
+14200,18,59,Indianapolis
+14200,18,63,Indianapolis
+14200,18,81,Indianapolis
+14200,18,97,Indianapolis
+14200,18,109,Indianapolis
+14200,18,139,Indianapolis
+14200,18,145,Indianapolis
+14300,18,5,Columbus
+14300,18,71,Columbus
+14300,18,79,Columbus
+14300,18,143,Columbus
+14400,18,21,Terre Haute
+14400,18,107,Terre Haute
+14400,18,121,Terre Haute
+14400,18,133,Terre Haute
+14400,18,153,Terre Haute
+14400,18,165,Terre Haute
+14400,18,167,Terre Haute
+14500,17,183,Lafayette
+14500,18,7,Lafayette
+14500,18,15,Lafayette
+14500,18,23,Lafayette
+14500,18,45,Lafayette
+14500,18,157,Lafayette
+14500,18,171,Lafayette
+14500,18,181,Lafayette
+14600,18,27,Bloomington
+14600,18,55,Bloomington
+14600,18,93,Bloomington
+14600,18,101,Bloomington
+14600,18,105,Bloomington
+14600,18,117,Bloomington
+14600,18,119,Bloomington
+14700,17,185,Evansville
+14700,18,37,Evansville
+14700,18,51,Evansville
+14700,18,123,Evansville
+14700,18,125,Evansville
+14700,18,129,Evansville
+14700,18,147,Evansville
+14700,18,163,Evansville
+14700,18,173,Evansville
+14801,17,47,Olney
+14801,17,159,Olney
+14801,17,191,Olney
+14801,17,193,Olney
+14802,17,101,Vincennes
+14802,18,83,Vincennes
+14900,18,73,Gary
+14900,18,89,Gary
+14900,18,111,Gary
+14900,18,127,Gary
+15000,39,19,Canton
+15000,39,31,Canton
+15000,39,67,Canton
+15000,39,75,Canton
+15000,39,151,Canton
+15000,39,157,Canton
+15000,39,169,Canton
+15100,39,43,Lorain
+15100,39,77,Lorain
+15100,39,93,Lorain
+15200,39,7,Cleveland
+15200,39,35,Cleveland
+15200,39,55,Cleveland
+15200,39,85,Cleveland
+15200,39,103,Cleveland
+15200,39,133,Cleveland
+15200,39,153,Cleveland
+15300,39,167,Parkersburg
+15300,54,35,Parkersburg
+15300,54,73,Parkersburg
+15300,54,85,Parkersburg
+15300,54,105,Parkersburg
+15300,54,107,Parkersburg
+15400,39,59,Zanesville
+15400,39,115,Zanesville
+15400,39,119,Zanesville
+15400,39,121,Zanesville
+15400,39,127,Zanesville
+15500,39,81,Steubenville
+15500,54,9,Steubenville
+15500,54,29,Steubenville
+15600,39,13,Wheeling
+15600,39,111,Wheeling
+15600,54,51,Wheeling
+15600,54,69,Wheeling
+15600,54,95,Wheeling
+15600,54,103,Wheeling
+15700,39,79,Scioto
+15700,39,131,Scioto
+15700,39,141,Scioto
+15700,39,145,Scioto
+15700,39,163,Scioto
+15800,39,9,Athens
+15800,39,53,Athens
+15800,39,105,Athens
+15800,54,53,Athens
+15900,39,41,Columbus
+15900,39,45,Columbus
+15900,39,49,Columbus
+15900,39,73,Columbus
+15900,39,83,Columbus
+15900,39,89,Columbus
+15900,39,97,Columbus
+15900,39,129,Columbus
+15900,39,159,Columbus
+16000,39,5,Mansfield
+16000,39,33,Mansfield
+16000,39,101,Mansfield
+16000,39,117,Mansfield
+16000,39,139,Mansfield
+16100,42,27,State College
+16100,42,33,State College
+16100,42,61,State College
+16100,42,65,State College
+16200,42,9,Altoona
+16200,42,13,Altoona
+16200,42,21,Altoona
+16200,42,111,Altoona
+16300,42,3,Pittsburgh
+16300,42,5,Pittsburgh
+16300,42,7,Pittsburgh
+16300,42,19,Pittsburgh
+16300,42,51,Pittsburgh
+16300,42,59,Pittsburgh
+16300,42,63,Pittsburgh
+16300,42,125,Pittsburgh
+16300,42,129,Pittsburgh
+16400,39,29,Youngstown
+16400,39,99,Youngstown
+16400,39,155,Youngstown
+16400,42,73,Youngstown
+16400,42,85,Youngstown
+16500,36,13,Erie
+16500,42,31,Erie
+16500,42,39,Erie
+16500,42,49,Erie
+16500,42,53,Erie
+16500,42,121,Erie
+16500,42,123,Erie
+16600,51,23,Roanoke
+16600,51,45,Roanoke
+16600,51,63,Roanoke
+16600,51,67,Roanoke
+16600,51,71,Roanoke
+16600,51,121,Roanoke
+16600,51,155,Roanoke
+16600,51,161,Roanoke
+16600,51,750,Roanoke
+16600,51,770,Roanoke
+16600,51,775,Roanoke
+16600,54,63,Roanoke
+16701,54,1,Elkins
+16701,54,75,Elkins
+16701,54,83,Elkins
+16701,54,93,Elkins
+16702,54,17,Morgantown
+16702,54,33,Morgantown
+16702,54,49,Morgantown
+16702,54,61,Morgantown
+16702,54,77,Morgantown
+16702,54,91,Morgantown
+16703,54,41,Buckhannon
+16703,54,97,Buckhannon
+16801,54,19,Beckley
+16801,54,25,Beckley
+16801,54,81,Beckley
+16801,54,89,Beckley
+16802,54,7,Summersville
+16802,54,21,Summersville
+16802,54,67,Summersville
+16802,54,101,Summersville
+16901,54,5,Charleston
+16901,54,15,Charleston
+16901,54,39,Charleston
+16901,54,43,Charleston
+16901,54,45,Charleston
+16901,54,79,Charleston
+16902,54,13,Spencer
+16902,54,87,Spencer
+17000,21,71,Pikeville
+17000,21,115,Pikeville
+17000,21,127,Pikeville
+17000,21,153,Pikeville
+17000,21,159,Pikeville
+17000,21,195,Pikeville
+17000,54,59,Pikeville
+17100,21,19,Huntington
+17100,21,43,Huntington
+17100,21,63,Huntington
+17100,21,89,Huntington
+17100,21,205,Huntington
+17100,39,87,Huntington
+17100,54,11,Huntington
+17100,54,99,Huntington
+17200,51,139,Harrisonburg
+17200,51,165,Harrisonburg
+17200,51,171,Harrisonburg
+17200,51,660,Harrisonburg
+17200,54,71,Harrisonburg
+17300,51,5,Staunton
+17300,51,15,Staunton
+17300,51,17,Staunton
+17300,51,91,Staunton
+17300,51,125,Staunton
+17300,51,163,Staunton
+17300,51,530,Staunton
+17300,51,580,Staunton
+17300,51,678,Staunton
+17300,51,790,Staunton
+17300,51,820,Staunton
+17400,24,43,Hagerstown
+17400,42,55,Hagerstown
+17400,42,57,Hagerstown
+17400,54,3,Hagerstown
+17400,54,37,Hagerstown
+17400,54,65,Hagerstown
+17501,24,1,Cumberland
+17501,24,23,Cumberland
+17501,54,23,Cumberland
+17501,54,31,Cumberland
+17501,54,57,Cumberland
+17502,51,43,Winchester
+17502,51,69,Winchester
+17502,51,840,Winchester
+17502,54,27,Winchester
+17600,51,3,Charlottesville
+17600,51,29,Charlottesville
+17600,51,47,Charlottesville
+17600,51,65,Charlottesville
+17600,51,79,Charlottesville
+17600,51,109,Charlottesville
+17600,51,113,Charlottesville
+17600,51,137,Charlottesville
+17600,51,540,Charlottesville
+17700,36,11,Syracuse
+17700,36,23,Syracuse
+17700,36,43,Syracuse
+17700,36,53,Syracuse
+17700,36,65,Syracuse
+17700,36,67,Syracuse
+17700,36,75,Syracuse
+17800,36,17,Oneonta
+17800,36,25,Oneonta
+17800,36,77,Oneonta
+17900,36,7,Union
+17900,36,107,Union
+17900,42,115,Union
+18000,36,29,Buffalo
+18000,36,37,Buffalo
+18000,36,51,Buffalo
+18000,36,55,Buffalo
+18000,36,63,Buffalo
+18000,36,69,Buffalo
+18000,36,73,Buffalo
+18000,36,99,Buffalo
+18000,36,117,Buffalo
+18000,36,121,Buffalo
+18000,36,123,Buffalo
+18100,36,15,Elmira
+18100,36,97,Elmira
+18100,36,101,Elmira
+18100,36,109,Elmira
+18100,42,117,Elmira
+18201,36,3,Olean
+18201,36,9,Olean
+18201,42,83,Olean
+18201,42,105,Olean
+18202,42,23,St. Marys
+18202,42,47,St. Marys
+18300,36,45,Watertown
+18300,36,49,Watertown
+18300,36,89,Watertown
+18400,36,19,Plattsburgh
+18400,36,31,Plattsburgh
+18400,36,33,Plattsburgh
+18500,36,35,Amsterdam
+18500,36,41,Amsterdam
+18500,36,57,Amsterdam
+18600,36,1,Albany
+18600,36,21,Albany
+18600,36,39,Albany
+18600,36,83,Albany
+18600,36,91,Albany
+18600,36,93,Albany
+18600,36,95,Albany
+18600,36,113,Albany
+18600,36,115,Albany
+18700,42,93,Sunbury
+18700,42,97,Sunbury
+18700,42,109,Sunbury
+18700,42,119,Sunbury
+18800,42,37,Scranton
+18800,42,69,Scranton
+18800,42,79,Scranton
+18800,42,89,Scranton
+18800,42,103,Scranton
+18800,42,127,Scranton
+18800,42,131,Scranton
+18900,42,15,Williamsport
+18900,42,35,Williamsport
+18900,42,81,Williamsport
+18900,42,113,Williamsport
+19000,42,25,Allentown
+19000,42,77,Allentown
+19000,42,95,Allentown
+19100,42,11,Reading
+19100,42,71,Reading
+19100,42,75,Reading
+19100,42,107,Reading
+19200,42,1,Harrisburg
+19200,42,41,Harrisburg
+19200,42,43,Harrisburg
+19200,42,67,Harrisburg
+19200,42,87,Harrisburg
+19200,42,99,Harrisburg
+19200,42,133,Harrisburg
+19300,36,27,Poughkeepsie
+19300,36,71,Poughkeepsie
+19300,36,105,Poughkeepsie
+19300,36,111,Poughkeepsie
+19400,36,5,New York
+19400,36,47,New York
+19400,36,59,New York
+19400,36,61,New York
+19400,36,79,New York
+19400,36,81,New York
+19400,36,85,New York
+19400,36,103,New York
+19400,36,119,New York
+19500,34,25,Toms River
+19500,34,29,Toms River
+19600,34,3,Newark
+19600,34,13,Newark
+19600,34,17,Newark
+19600,34,19,Newark
+19600,34,21,Newark
+19600,34,23,Newark
+19600,34,27,Newark
+19600,34,31,Newark
+19600,34,35,Newark
+19600,34,37,Newark
+19600,34,39,Newark
+19600,34,41,Newark
+19600,36,87,Newark
+19700,34,1,Philadelphia
+19700,34,5,Philadelphia
+19700,34,7,Philadelphia
+19700,34,9,Philadelphia
+19700,34,11,Philadelphia
+19700,34,15,Philadelphia
+19700,34,33,Philadelphia
+19700,42,17,Philadelphia
+19700,42,29,Philadelphia
+19700,42,45,Philadelphia
+19700,42,91,Philadelphia
+19700,42,101,Philadelphia
+19800,10,3,Wilmington
+19800,24,15,Wilmington
+19901,10,1,Dover
+19901,10,5,Dover
+19901,24,39,Dover
+19901,24,45,Dover
+19901,24,47,Dover
+19902,24,11,Easton
+19902,24,19,Easton
+19902,24,29,Easton
+19902,24,35,Easton
+19902,24,41,Easton
+19903,51,1,Chincoteague
+19903,51,131,Chincoteague
+20001,23,9,Bangor
+20001,23,13,Bangor
+20001,23,19,Bangor
+20001,23,21,Bangor
+20001,23,27,Bangor
+20002,23,29,Calais
+20003,23,3,Presque Isle
+20100,23,1,Portland
+20100,23,5,Portland
+20100,23,7,Portland
+20100,23,11,Portland
+20100,23,15,Portland
+20100,23,17,Portland
+20100,23,23,Portland
+20100,23,25,Portland
+20200,50,1,Burlington
+20200,50,7,Burlington
+20200,50,11,Burlington
+20200,50,13,Burlington
+20200,50,15,Burlington
+20200,50,21,Burlington
+20301,33,7,Berlin
+20301,50,5,Berlin
+20301,50,9,Berlin
+20301,50,19,Berlin
+20302,33,9,Claremont
+20302,33,19,Claremont
+20302,50,17,Claremont
+20302,50,23,Claremont
+20302,50,27,Claremont
+20401,25,5,Providence
+20401,44,1,Providence
+20401,44,3,Providence
+20401,44,5,Providence
+20401,44,7,Providence
+20401,44,9,Providence
+20402,25,19,Nantucket
+20403,25,7,Oak Bluffs
+20500,25,1,Boston
+20500,25,9,Boston
+20500,25,17,Boston
+20500,25,21,Boston
+20500,25,23,Boston
+20500,25,25,Boston
+20500,25,27,Boston
+20600,23,31,Manchester
+20600,33,1,Manchester
+20600,33,3,Manchester
+20600,33,11,Manchester
+20600,33,13,Manchester
+20600,33,15,Manchester
+20600,33,17,Manchester
+20700,33,5,Keene
+20700,50,25,Keene
+20800,25,11,Springfield
+20800,25,13,Springfield
+20800,25,15,Springfield
+20901,9,1,Bridgeport
+20901,9,3,Bridgeport
+20901,9,5,Bridgeport
+20901,9,7,Bridgeport
+20901,9,9,Bridgeport
+20901,9,11,Bridgeport
+20901,9,13,Bridgeport
+20901,9,15,Bridgeport
+20902,25,3,Pittsfield
+20902,50,3,Pittsfield
+21001,55,3,Ashland
+21001,55,7,Ashland
+21001,55,99,Ashland
+21002,26,13,Houghton
+21002,26,61,Houghton
+21002,26,83,Houghton
+21003,26,53,Ironwood
+21003,26,131,Ironwood
+21003,55,51,Ironwood
+21004,55,41,Rhinelander
+21004,55,85,Rhinelander
+21004,55,125,Rhinelander
+21101,55,5,Rice Lake
+21101,55,107,Rice Lake
+21101,55,113,Rice Lake
+21101,55,129,Rice Lake
+21102,55,13,Amery
+21102,55,95,Amery
+21201,27,85,Hutchinson
+21201,27,93,Hutchinson
+21201,27,143,Hutchinson
+21202,27,127,Redwood Falls
+21202,27,129,Redwood Falls
+21301,27,13,Mankato
+21301,27,15,Mankato
+21301,27,79,Mankato
+21301,27,103,Mankato
+21301,27,165,Mankato
+21302,27,131,Owatonna
+21302,27,147,Owatonna
+21302,27,161,Owatonna
+21400,27,9,St. Cloud
+21400,27,95,St. Cloud
+21400,27,141,St. Cloud
+21400,27,145,St. Cloud
+21501,27,3,Minneapolis
+21501,27,19,Minneapolis
+21501,27,25,Minneapolis
+21501,27,37,Minneapolis
+21501,27,53,Minneapolis
+21501,27,59,Minneapolis
+21501,27,123,Minneapolis
+21501,27,139,Minneapolis
+21501,27,163,Minneapolis
+21501,27,171,Minneapolis
+21501,55,93,Minneapolis
+21501,55,109,Minneapolis
+21502,27,65,Pine City
+21502,27,115,Pine City
+21600,27,1,Brainerd
+21600,27,21,Brainerd
+21600,27,35,Brainerd
+21600,27,61,Brainerd
+21701,27,39,Rochester
+21701,27,45,Rochester
+21701,27,49,Rochester
+21701,27,109,Rochester
+21701,27,157,Rochester
+21702,27,47,Austin
+21702,27,99,Austin
+21801,19,33,Mason City
+21801,19,81,Mason City
+21801,19,189,Mason City
+21801,19,195,Mason City
+21802,19,37,Decorah
+21802,19,67,Decorah
+21802,19,89,Decorah
+21802,19,131,Decorah
+21802,19,191,Decorah
+21900,19,99,Marshalltown
+21900,19,127,Marshalltown
+21900,19,157,Marshalltown
+21900,19,171,Marshalltown
+22001,19,13,Waterloo
+22001,19,17,Waterloo
+22001,19,19,Waterloo
+22001,19,23,Waterloo
+22001,19,65,Waterloo
+22001,19,75,Waterloo
+22002,19,69,Iowa Falls
+22002,19,83,Iowa Falls
+22100,19,31,Iowa City
+22100,19,103,Iowa City
+22100,19,115,Iowa City
+22100,19,139,Iowa City
+22100,19,183,Iowa City
+22200,19,11,Cedar Rapids
+22200,19,95,Cedar Rapids
+22200,19,105,Cedar Rapids
+22200,19,113,Cedar Rapids
+22300,19,51,Ottumwa
+22300,19,101,Ottumwa
+22300,19,107,Ottumwa
+22300,19,123,Ottumwa
+22300,19,125,Ottumwa
+22300,19,135,Ottumwa
+22300,19,177,Ottumwa
+22300,19,179,Ottumwa
+22400,55,71,Sheboygan
+22400,55,117,Sheboygan
+22500,55,15,Oshkosh
+22500,55,39,Oshkosh
+22500,55,47,Oshkosh
+22500,55,87,Oshkosh
+22500,55,135,Oshkosh
+22500,55,137,Oshkosh
+22500,55,139,Oshkosh
+22601,55,9,Green Bay
+22601,55,29,Green Bay
+22601,55,61,Green Bay
+22601,55,83,Green Bay
+22602,55,67,Shawano
+22602,55,78,Shawano
+22602,55,115,Shawano
+22700,55,1,Wausau
+22700,55,19,Wausau
+22700,55,69,Wausau
+22700,55,73,Wausau
+22700,55,97,Wausau
+22700,55,119,Wausau
+22700,55,141,Wausau
+22800,27,169,Eau Claire
+22800,55,11,Eau Claire
+22800,55,17,Eau Claire
+22800,55,33,Eau Claire
+22800,55,35,Eau Claire
+22800,55,53,Eau Claire
+22800,55,91,Eau Claire
+22800,55,121,Eau Claire
+22900,27,55,La Crosse
+22900,55,57,La Crosse
+22900,55,63,La Crosse
+22900,55,81,La Crosse
+22900,55,123,La Crosse
+23000,55,23,Monroe
+23000,55,43,Monroe
+23000,55,45,Monroe
+23000,55,65,Monroe
+23100,55,21,Madison
+23100,55,25,Madison
+23100,55,49,Madison
+23100,55,77,Madison
+23100,55,103,Madison
+23100,55,111,Madison
+23200,17,85,Dubuque
+23200,19,5,Dubuque
+23200,19,43,Dubuque
+23200,19,55,Dubuque
+23200,19,61,Dubuque
+23301,17,23,Charleston
+23301,17,29,Charleston
+23301,17,35,Charleston
+23301,17,45,Charleston
+23302,17,25,Douglas
+23302,17,33,Douglas
+23302,17,49,Douglas
+23302,17,51,Douglas
+23302,17,79,Douglas
+23400,17,39,Bloomington
+23400,17,105,Bloomington
+23400,17,113,Bloomington
+23500,17,19,Decatur
+23500,17,41,Decatur
+23500,17,53,Decatur
+23500,17,115,Decatur
+23500,17,139,Decatur
+23500,17,147,Decatur
+23500,17,173,Decatur
+23600,17,67,Burlington
+23600,17,71,Burlington
+23600,19,57,Burlington
+23600,19,87,Burlington
+23600,19,111,Burlington
+23600,29,45,Burlington
+23700,17,57,Galesburg
+23700,17,95,Galesburg
+23700,17,109,Galesburg
+23700,17,187,Galesburg
+23801,17,73,Davenport
+23801,17,131,Davenport
+23801,17,161,Davenport
+23801,17,175,Davenport
+23801,19,163,Davenport
+23802,19,45,Clinton
+23802,19,97,Clinton
+23900,17,11,Peoria
+23900,17,99,Peoria
+23900,17,123,Peoria
+23900,17,125,Peoria
+23900,17,143,Peoria
+23900,17,155,Peoria
+23900,17,179,Peoria
+23900,17,203,Peoria
+24000,55,59,Kenosha
+24000,55,101,Kenosha
+24000,55,105,Kenosha
+24000,55,127,Kenosha
+24100,55,27,Milwaukee
+24100,55,55,Milwaukee
+24100,55,79,Milwaukee
+24100,55,89,Milwaukee
+24100,55,131,Milwaukee
+24100,55,133,Milwaukee
+24200,17,75,Bourbonnais
+24200,17,91,Bourbonnais
+24300,17,31,Chicago
+24300,17,43,Chicago
+24300,17,63,Chicago
+24300,17,89,Chicago
+24300,17,93,Chicago
+24300,17,97,Chicago
+24300,17,111,Chicago
+24300,17,197,Chicago
+24400,17,7,Rockford
+24400,17,15,Rockford
+24400,17,37,Rockford
+24400,17,103,Rockford
+24400,17,141,Rockford
+24400,17,177,Rockford
+24400,17,195,Rockford
+24400,17,201,Rockford
+24500,29,65,Rolla
+24500,29,125,Rolla
+24500,29,161,Rolla
+24500,29,169,Rolla
+24500,29,179,Rolla
+24600,29,93,Farmington
+24600,29,123,Farmington
+24600,29,157,Farmington
+24600,29,186,Farmington
+24600,29,187,Farmington
+24600,29,221,Farmington
+24701,17,133,St. Louis
+24701,17,163,St. Louis
+24701,29,55,St. Louis
+24701,29,71,St. Louis
+24701,29,73,St. Louis
+24701,29,99,St. Louis
+24701,29,113,St. Louis
+24701,29,183,St. Louis
+24701,29,189,St. Louis
+24701,29,219,St. Louis
+24701,29,510,St. Louis
+24702,29,7,Mexico
+24702,29,139,Mexico
+24801,17,9,Jacksonville
+24801,17,17,Jacksonville
+24801,17,61,Jacksonville
+24801,17,137,Jacksonville
+24801,17,169,Jacksonville
+24801,17,171,Jacksonville
+24802,17,21,Springfield
+24802,17,107,Springfield
+24802,17,129,Springfield
+24802,17,167,Springfield
+24900,17,5,Edwardsville
+24900,17,13,Edwardsville
+24900,17,83,Edwardsville
+24900,17,117,Edwardsville
+24900,17,119,Edwardsville
+24900,17,135,Edwardsville
+25000,17,1,Quincy
+25000,17,149,Quincy
+25000,29,111,Quincy
+25000,29,127,Quincy
+25000,29,163,Quincy
+25000,29,173,Quincy
+25101,5,5,Mountain Home
+25101,5,89,Mountain Home
+25101,29,153,Mountain Home
+25102,5,49,West Plains
+25102,29,91,West Plains
+25102,29,149,West Plains
+25102,29,203,West Plains
+25102,29,215,West Plains
+25103,5,9,Harrison
+25103,5,15,Harrison
+25103,5,101,Harrison
+25103,5,129,Harrison
+25104,5,23,Heber Springs
+25104,5,137,Heber Springs
+25104,5,141,Heber Springs
+25105,5,63,Batesville
+25105,5,65,Batesville
+25105,5,135,Batesville
+25200,21,33,Henderson
+25200,21,55,Henderson
+25200,21,101,Henderson
+25200,21,107,Henderson
+25200,21,143,Henderson
+25200,21,225,Henderson
+25200,21,233,Henderson
+25300,21,75,Union City
+25300,21,83,Union City
+25300,21,105,Union City
+25300,47,131,Union City
+25300,47,183,Union City
+25401,17,127,Paducah
+25401,17,151,Paducah
+25401,21,7,Paducah
+25401,21,39,Paducah
+25401,21,139,Paducah
+25401,21,145,Paducah
+25401,21,157,Paducah
+25402,21,35,Murray
+25500,17,27,Centralia
+25500,17,65,Centralia
+25500,17,81,Centralia
+25500,17,121,Centralia
+25500,17,189,Centralia
+25601,17,3,Carbondale
+25601,17,55,Carbondale
+25601,17,77,Carbondale
+25601,17,87,Carbondale
+25601,17,145,Carbondale
+25601,17,153,Carbondale
+25601,17,157,Carbondale
+25601,17,181,Carbondale
+25601,17,199,Carbondale
+25602,17,59,Harrisburg
+25602,17,69,Harrisburg
+25602,17,165,Harrisburg
+25701,29,17,Cape Girardeau
+25701,29,31,Cape Girardeau
+25701,29,133,Cape Girardeau
+25701,29,143,Cape Girardeau
+25701,29,201,Cape Girardeau
+25701,29,207,Cape Girardeau
+25702,29,23,Poplar Bluff
+25702,29,35,Poplar Bluff
+25702,29,181,Poplar Bluff
+25702,29,223,Poplar Bluff
+25800,5,93,Blytheville
+25800,29,69,Blytheville
+25800,29,155,Blytheville
+25900,5,21,Jonesboro
+25900,5,31,Jonesboro
+25900,5,55,Jonesboro
+25900,5,75,Jonesboro
+25900,5,111,Jonesboro
+25900,5,121,Jonesboro
+26001,27,77,Roseau
+26001,27,135,Roseau
+26002,27,17,Duluth
+26002,27,75,Duluth
+26002,27,137,Duluth
+26002,55,31,Duluth
+26003,27,31,West Cook UT
+26004,27,71,International Falls
+26101,29,121,Moberly
+26101,29,137,Moberly
+26101,29,175,Moberly
+26101,29,205,Moberly
+26102,29,33,Marshall
+26102,29,117,Marshall
+26102,29,195,Marshall
+26103,29,41,Brookfield
+26103,29,115,Brookfield
+26104,29,79,Trenton
+26104,29,129,Trenton
+26105,29,171,Polk
+26105,29,211,Polk
+26106,19,7,Centerville
+26106,19,117,Centerville
+26106,19,185,Centerville
+26107,29,1,Kirksville
+26107,29,103,Kirksville
+26107,29,197,Kirksville
+26107,29,199,Kirksville
+26201,38,15,Bismarck
+26201,38,55,Bismarck
+26201,38,57,Bismarck
+26201,38,59,Bismarck
+26201,38,65,Bismarck
+26202,38,37,East Grant UT
+26203,38,29,Linton
+26203,38,47,Linton
+26203,38,51,Linton
+26204,38,43,Steele
+26301,38,5,Devils Lake
+26301,38,63,Devils Lake
+26301,38,71,Devils Lake
+26302,38,27,Carrington
+26302,38,31,Carrington
+26303,38,79,Turtle Mountain UT
+26303,38,95,Turtle Mountain UT
+26304,38,9,Minot
+26304,38,49,Minot
+26304,38,75,Minot
+26304,38,101,Minot
+26305,38,69,Rugby
+26305,38,83,Rugby
+26305,38,103,Rugby
+26401,30,11,Ekalaka
+26401,46,63,Ekalaka
+26402,30,25,Baker
+26403,38,11,Bowman
+26403,38,87,Bowman
+26404,38,1,Lemmon
+26404,38,41,Lemmon
+26404,46,105,Lemmon
+26405,30,19,Scobey
+26406,30,55,Wolf Point
+26406,30,85,Wolf Point
+26407,30,91,Plentywood
+26408,30,71,Glasgow
+26408,30,105,Glasgow
+26409,30,21,Glendive
+26409,30,109,Glendive
+26409,38,33,Glendive
+26410,38,7,Dickinson
+26410,38,25,Dickinson
+26410,38,89,Dickinson
+26411,30,83,Sidney
+26411,38,53,Sidney
+26411,38,61,Sidney
+26412,38,13,Williston
+26412,38,23,Williston
+26412,38,105,Williston
+26501,46,11,Brookings
+26501,46,77,Brookings
+26501,46,101,Brookings
+26502,46,79,Madison
+26502,46,97,Madison
+26503,46,27,Sioux Falls
+26503,46,83,Sioux Falls
+26503,46,87,Sioux Falls
+26503,46,99,Sioux Falls
+26503,46,125,Sioux Falls
+26504,46,25,Watertown
+26504,46,29,Watertown
+26504,46,39,Watertown
+26504,46,57,Watertown
+26601,27,11,Milbank
+26601,27,155,Milbank
+26601,46,51,Milbank
+26602,46,37,Sisseton
+26602,46,91,Sisseton
+26602,46,109,Sisseton
+26603,38,85,East Corson UT
+26603,46,31,East Corson UT
+26604,46,21,Mobridge
+26604,46,129,Mobridge
+26605,46,13,Aberdeen
+26605,46,45,Aberdeen
+26605,46,49,Aberdeen
+26605,46,89,Aberdeen
+26605,46,115,Aberdeen
+26701,27,5,Bemidji
+26701,27,7,Bemidji
+26701,27,29,Bemidji
+26701,27,57,Bemidji
+26701,27,87,Bemidji
+26702,27,69,Grafton
+26702,38,19,Grafton
+26702,38,67,Grafton
+26702,38,99,Grafton
+26703,27,89,Thief River Falls
+26703,27,113,Thief River Falls
+26703,27,125,Thief River Falls
+26704,27,119,Grand Forks
+26704,38,35,Grand Forks
+26704,38,91,Grand Forks
+26704,38,97,Grand Forks
+26801,27,27,Fargo
+26801,27,107,Fargo
+26801,27,167,Fargo
+26801,38,17,Fargo
+26801,38,77,Fargo
+26802,38,21,Lisbon
+26802,38,73,Lisbon
+26802,38,81,Lisbon
+26803,38,3,Jamestown
+26803,38,45,Jamestown
+26803,38,93,Jamestown
+26804,38,39,Cooperstown
+26901,27,41,Fergus Falls
+26901,27,51,Fergus Falls
+26901,27,111,Fergus Falls
+26901,27,121,Fergus Falls
+26901,27,149,Fergus Falls
+26902,27,97,Little Falls
+26902,27,153,Little Falls
+26902,27,159,Little Falls
+27001,31,15,O'Neill
+27001,31,89,O'Neill
+27001,31,183,O'Neill
+27002,31,71,Ord
+27002,31,77,Ord
+27002,31,115,Ord
+27002,31,175,Ord
+27003,31,17,Ainsworth
+27003,31,103,Ainsworth
+27003,31,149,Ainsworth
+27004,46,53,Winner
+27004,46,123,Winner
+27005,31,27,Yankton
+27005,31,107,Yankton
+27005,46,9,Yankton
+27005,46,135,Yankton
+27006,46,3,Mitchell
+27006,46,35,Mitchell
+27006,46,61,Mitchell
+27006,46,111,Mitchell
+27007,46,5,Huron
+27007,46,73,Huron
+27008,46,23,Parkston
+27008,46,43,Parkston
+27008,46,67,Parkston
+27009,46,15,Chamberlain
+27009,46,17,Chamberlain
+27009,46,85,Chamberlain
+27010,46,59,Miller
+27010,46,69,Miller
+27011,46,65,Pierre
+27011,46,117,Pierre
+27011,46,119,Pierre
+27012,46,107,Gettysburg
+27101,27,23,Willmar
+27101,27,67,Willmar
+27101,27,73,Willmar
+27101,27,151,Willmar
+27101,27,173,Willmar
+27102,27,81,Marshall
+27102,27,83,Marshall
+27102,27,117,Marshall
+27102,27,133,Marshall
+27201,19,119,Sioux Center
+27201,19,141,Sioux Center
+27201,19,167,Sioux Center
+27202,19,143,Worthington
+27202,27,33,Worthington
+27202,27,63,Worthington
+27202,27,101,Worthington
+27202,27,105,Worthington
+27301,19,41,Spencer
+27301,19,59,Spencer
+27301,19,109,Spencer
+27301,19,147,Spencer
+27302,19,63,Fairmont
+27302,27,43,Fairmont
+27302,27,91,Fairmont
+27401,19,21,Storm Lake
+27401,19,35,Storm Lake
+27401,19,93,Storm Lake
+27401,19,161,Storm Lake
+27402,19,25,Fort Dodge
+27402,19,79,Fort Dodge
+27402,19,91,Fort Dodge
+27402,19,151,Fort Dodge
+27402,19,187,Fort Dodge
+27402,19,197,Fort Dodge
+27501,19,1,Des Moines
+27501,19,15,Des Moines
+27501,19,49,Des Moines
+27501,19,77,Des Moines
+27501,19,121,Des Moines
+27501,19,153,Des Moines
+27501,19,169,Des Moines
+27501,19,181,Des Moines
+27502,19,39,Creston
+27502,19,53,Creston
+27502,19,159,Creston
+27502,19,175,Creston
+27503,19,9,Atlantic
+27503,19,29,Atlantic
+27503,19,165,Atlantic
+27504,19,27,Carroll
+27504,19,47,Carroll
+27504,19,73,Carroll
+27601,46,19,Rapid City
+27601,46,33,Rapid City
+27601,46,47,Rapid City
+27601,46,81,Rapid City
+27601,46,93,Rapid City
+27601,46,103,Rapid City
+27602,46,41,Eagle Butte
+27602,46,137,Eagle Butte
+27603,46,55,Southwest Jackson UT
+27603,46,71,Southwest Jackson UT
+27604,46,75,Murdo
+27605,46,95,Mission
+27605,46,121,Mission
+27701,31,7,Scottsbluff
+27701,31,13,Scottsbluff
+27701,31,45,Scottsbluff
+27701,31,123,Scottsbluff
+27701,31,157,Scottsbluff
+27701,31,165,Scottsbluff
+27702,31,33,Cheyenne
+27702,31,105,Cheyenne
+27702,56,21,Cheyenne
+27703,56,15,Torrington
+27703,56,31,Torrington
+27704,31,161,Gordon
+27704,46,7,Gordon
+27801,31,3,Virginia Beach
+27801,31,119,Virginia Beach
+27801,31,139,Virginia Beach
+27801,31,167,Virginia Beach
+27802,31,11,Columbus
+27802,31,23,Columbus
+27802,31,37,Columbus
+27802,31,125,Columbus
+27802,31,141,Columbus
+27901,31,1,Hastings
+27901,31,35,Hastings
+27901,31,181,Hastings
+27902,31,59,York
+27902,31,143,York
+27902,31,185,York
+27903,31,79,Grand Island
+27903,31,81,Grand Island
+27903,31,93,Grand Island
+27903,31,121,Grand Island
+28001,19,133,Sioux City
+28001,19,149,Sioux City
+28001,19,193,Sioux City
+28001,31,43,Sioux City
+28001,31,51,Sioux City
+28001,31,179,Sioux City
+28001,46,127,Sioux City
+28002,31,21,West Point
+28002,31,39,West Point
+28002,31,173,West Point
+28101,31,67,Lincoln
+28101,31,95,Lincoln
+28101,31,109,Lincoln
+28101,31,151,Lincoln
+28101,31,159,Lincoln
+28102,31,97,Nebraska City
+28102,31,127,Nebraska City
+28102,31,131,Nebraska City
+28102,31,133,Nebraska City
+28102,31,147,Nebraska City
+28201,19,3,Red Oak
+28201,19,71,Red Oak
+28201,19,137,Red Oak
+28201,19,145,Red Oak
+28201,19,173,Red Oak
+28202,19,85,Omaha
+28202,19,129,Omaha
+28202,19,155,Omaha
+28202,31,25,Omaha
+28202,31,53,Omaha
+28202,31,55,Omaha
+28202,31,153,Omaha
+28202,31,155,Omaha
+28202,31,177,Omaha
+28301,8,75,Sterling
+28301,8,95,Sterling
+28301,8,121,Sterling
+28301,8,125,Sterling
+28302,8,115,Ogallala
+28302,31,49,Ogallala
+28302,31,101,Ogallala
+28302,31,135,Ogallala
+28303,31,69,Oshkosh
+28304,31,5,Valentine
+28304,31,31,Valentine
+28304,31,75,Valentine
+28304,31,91,Valentine
+28305,31,9,Broken Bow
+28305,31,41,Broken Bow
+28305,31,171,Broken Bow
+28306,31,111,North Platte
+28306,31,113,North Platte
+28306,31,117,North Platte
+28401,8,27,Colorado Springs
+28401,8,41,Colorado Springs
+28401,8,43,Colorado Springs
+28401,8,119,Colorado Springs
+28402,8,73,Limon
+28501,8,9,Springfield
+28502,8,11,Pueblo
+28502,8,25,Pueblo
+28502,8,89,Pueblo
+28502,8,99,Pueblo
+28502,8,101,Pueblo
+28503,8,55,Trinidad
+28503,8,71,Trinidad
+28504,8,17,Burlington
+28504,8,61,Burlington
+28504,8,63,Burlington
+28601,20,39,Oberlin
+28601,20,153,Oberlin
+28602,20,137,Norton
+28603,20,147,Phillipsburg
+28603,20,183,Phillipsburg
+28604,20,63,Colby
+28604,20,109,Colby
+28604,20,179,Colby
+28604,20,193,Colby
+28605,20,181,Goodland
+28605,20,199,Goodland
+28606,20,23,Wano
+28606,31,57,Wano
+28607,31,29,McCook
+28607,31,85,McCook
+28607,31,87,McCook
+28607,31,145,McCook
+28608,31,19,Kearney
+28608,31,61,Kearney
+28608,31,99,Kearney
+28608,31,163,Kearney
+28609,31,47,Lexington
+28609,31,63,Lexington
+28609,31,65,Lexington
+28609,31,73,Lexington
+28609,31,83,Lexington
+28609,31,137,Lexington
+28701,8,15,Salida
+28702,8,37,Glenwood Springs
+28702,8,45,Glenwood Springs
+28702,8,65,Glenwood Springs
+28702,8,97,Glenwood Springs
+28702,8,117,Glenwood Springs
+28703,8,49,Granby
+28704,8,57,Laramie
+28704,56,1,Laramie
+28800,8,69,Fort Collins
+28800,8,87,Fort Collins
+28800,8,123,Fort Collins
+28900,8,1,Denver
+28900,8,5,Denver
+28900,8,13,Denver
+28900,8,14,Denver
+28900,8,19,Denver
+28900,8,31,Denver
+28900,8,35,Denver
+28900,8,39,Denver
+28900,8,47,Denver
+28900,8,59,Denver
+28900,8,93,Denver
+29001,20,7,Pratt
+29001,20,97,Pratt
+29001,20,151,Pratt
+29002,20,33,Coldwater
+29003,20,25,Dodge City
+29003,20,57,Dodge City
+29003,20,69,Dodge City
+29003,20,83,Dodge City
+29004,20,9,Great Bend
+29004,20,47,Great Bend
+29004,20,145,Great Bend
+29004,20,165,Great Bend
+29004,20,185,Great Bend
+29005,20,53,Hutchinson
+29005,20,155,Hutchinson
+29005,20,159,Hutchinson
+29006,20,51,Hays
+29006,20,167,Hays
+29006,20,195,Hays
+29007,20,65,Township 11
+29007,20,163,Township 11
+29008,20,101,Center
+29008,20,135,Center
+29101,20,29,Concordia
+29101,20,89,Concordia
+29101,20,157,Concordia
+29102,31,129,Superior
+29102,31,169,Superior
+29103,20,123,Beloit
+29103,20,141,Beloit
+29104,20,105,Salina
+29104,20,143,Salina
+29104,20,169,Salina
+29201,20,13,Hiawatha
+29201,20,131,Hiawatha
+29202,20,117,Marysville
+29202,20,201,Marysville
+29203,20,27,Manhattan
+29203,20,41,Manhattan
+29203,20,61,Manhattan
+29203,20,127,Manhattan
+29203,20,149,Manhattan
+29203,20,161,Manhattan
+29204,20,45,Topeka
+29204,20,85,Topeka
+29204,20,87,Topeka
+29204,20,139,Topeka
+29204,20,177,Topeka
+29204,20,197,Topeka
+29301,20,15,Wichita
+29301,20,77,Wichita
+29301,20,95,Wichita
+29301,20,173,Wichita
+29301,20,191,Wichita
+29302,20,79,Newton
+29302,20,113,Newton
+29302,20,115,Newton
+29303,20,19,Winfield
+29303,20,35,Winfield
+29303,20,49,Winfield
+29303,20,73,Winfield
+29401,20,1,Ottawa
+29401,20,3,Ottawa
+29401,20,59,Ottawa
+29401,20,207,Ottawa
+29402,20,17,Emporia
+29402,20,31,Emporia
+29402,20,111,Emporia
+29403,20,99,Bartlesville
+29403,20,125,Bartlesville
+29403,20,133,Bartlesville
+29403,20,205,Bartlesville
+29403,40,105,Bartlesville
+29403,40,147,Bartlesville
+29501,20,5,Leavenworth
+29501,20,103,Leavenworth
+29502,20,91,Kansas City
+29502,20,107,Kansas City
+29502,20,121,Kansas City
+29502,20,209,Kansas City
+29502,29,13,Kansas City
+29502,29,37,Kansas City
+29502,29,47,Kansas City
+29502,29,95,Kansas City
+29502,29,101,Kansas City
+29502,29,107,Kansas City
+29502,29,165,Kansas City
+29502,29,177,Kansas City
+29503,20,43,St. Joseph
+29503,29,3,St. Joseph
+29503,29,21,St. Joseph
+29503,29,25,St. Joseph
+29503,29,49,St. Joseph
+29503,29,61,St. Joseph
+29503,29,63,St. Joseph
+29504,29,15,Sedalia
+29504,29,83,Sedalia
+29504,29,159,Sedalia
+29504,29,185,Sedalia
+29505,29,5,Polk
+29505,29,87,Polk
+29505,29,147,Polk
+29506,29,75,Bethany
+29506,29,81,Bethany
+29506,29,227,Bethany
+29601,29,19,Columbia
+29601,29,27,Columbia
+29601,29,51,Columbia
+29601,29,53,Columbia
+29601,29,89,Columbia
+29601,29,135,Columbia
+29601,29,151,Columbia
+29602,29,29,Eldon
+29602,29,131,Eldon
+29602,29,141,Eldon
+29700,29,43,Springfield
+29700,29,59,Springfield
+29700,29,67,Springfield
+29700,29,77,Springfield
+29700,29,85,Springfield
+29700,29,105,Springfield
+29700,29,167,Springfield
+29700,29,225,Springfield
+29700,29,229,Springfield
+29800,29,9,Aurora
+29800,29,109,Aurora
+29800,29,209,Aurora
+29800,29,213,Aurora
+29901,20,11,Joplin
+29901,20,21,Joplin
+29901,20,37,Joplin
+29901,29,97,Joplin
+29901,29,145,Joplin
+29901,40,115,Joplin
+29902,29,11,Center
+29902,29,39,Center
+29902,29,57,Center
+29902,29,217,Center
+30000,5,47,Russellville
+30000,5,71,Russellville
+30000,5,83,Russellville
+30000,5,115,Russellville
+30000,5,149,Russellville
+30100,5,33,Fort Smith
+30100,5,127,Fort Smith
+30100,5,131,Fort Smith
+30100,40,61,Fort Smith
+30100,40,77,Fort Smith
+30100,40,79,Fort Smith
+30100,40,121,Fort Smith
+30100,40,135,Fort Smith
+30200,40,1,Muskogee
+30200,40,21,Muskogee
+30200,40,91,Muskogee
+30200,40,101,Muskogee
+30300,5,7,Fayetteville
+30300,5,87,Fayetteville
+30300,5,143,Fayetteville
+30300,29,119,Fayetteville
+30300,40,41,Fayetteville
+30401,40,103,Stillwater
+30401,40,119,Stillwater
+30402,40,35,Tulsa
+30402,40,37,Tulsa
+30402,40,71,Tulsa
+30402,40,97,Tulsa
+30402,40,113,Tulsa
+30402,40,117,Tulsa
+30402,40,131,Tulsa
+30402,40,143,Tulsa
+30402,40,145,Tulsa
+30403,40,107,Okmulgee
+30403,40,111,Okmulgee
+30501,40,45,Woodward
+30501,40,59,Woodward
+30501,40,153,Woodward
+30502,40,3,Enid
+30502,40,11,Enid
+30502,40,43,Enid
+30502,40,47,Enid
+30502,40,53,Enid
+30502,40,93,Enid
+30502,40,151,Enid
+30601,35,13,El Paso
+30601,48,141,El Paso
+30601,48,229,El Paso
+30602,35,27,Alamogordo
+30602,35,35,Alamogordo
+30603,35,51,Truth or Consequences
+30604,35,17,Deming
+30604,35,23,Deming
+30604,35,29,Deming
+30605,48,109,Van Horn
+30701,35,5,Roswell
+30701,35,15,Roswell
+30702,35,11,Santa Rosa
+30702,35,19,Santa Rosa
+30801,35,25,Hobbs
+30801,48,165,Hobbs
+30801,48,445,Hobbs
+30801,48,501,Hobbs
+30802,48,79,Lubbock
+30802,48,107,Lubbock
+30802,48,169,Lubbock
+30802,48,219,Lubbock
+30802,48,303,Lubbock
+30802,48,305,Lubbock
+30901,35,9,Clovis
+30901,35,41,Clovis
+30901,48,369,Clovis
+30902,48,17,Littlefield
+30902,48,69,Littlefield
+30902,48,279,Littlefield
+30903,48,11,Amarillo
+30903,48,117,Amarillo
+30903,48,359,Amarillo
+30903,48,375,Amarillo
+30903,48,381,Amarillo
+30904,48,65,Pampa
+30904,48,179,Pampa
+30904,48,211,Pampa
+30904,48,233,Pampa
+30904,48,393,Pampa
+30905,48,87,Wellington
+30905,48,483,Wellington
+30906,48,45,Memphis
+30906,48,129,Memphis
+30906,48,191,Memphis
+30907,48,345,Matador
+30908,48,153,Plainview
+30908,48,189,Plainview
+30908,48,437,Plainview
+31001,20,55,Garden City
+31001,20,75,Garden City
+31001,20,81,Garden City
+31001,20,93,Garden City
+31002,20,67,Ulysses
+31002,20,187,Ulysses
+31002,20,189,Ulysses
+31003,20,71,Scott City
+31003,20,171,Scott City
+31003,20,203,Scott City
+31004,20,119,Liberal
+31004,20,175,Liberal
+31004,40,7,Liberal
+31005,48,195,Perryton
+31005,48,295,Perryton
+31005,48,357,Perryton
+31006,20,129,Guymon
+31006,40,25,Guymon
+31006,40,139,Guymon
+31006,48,421,Guymon
+31007,48,111,Dumas
+31007,48,205,Dumas
+31007,48,341,Dumas
+31101,48,57,Victoria
+31101,48,123,Victoria
+31101,48,175,Victoria
+31101,48,239,Victoria
+31101,48,285,Victoria
+31101,48,469,Victoria
+31102,48,89,La Grange
+31102,48,149,La Grange
+31103,48,177,Gonzales
+31201,48,21,Austin
+31201,48,31,Austin
+31201,48,55,Austin
+31201,48,209,Austin
+31201,48,287,Austin
+31201,48,331,Austin
+31201,48,453,Austin
+31201,48,491,Austin
+31202,48,53,Burnet
+31202,48,299,Burnet
+31301,48,13,San Antonio
+31301,48,19,San Antonio
+31301,48,29,San Antonio
+31301,48,91,San Antonio
+31301,48,187,San Antonio
+31301,48,259,San Antonio
+31301,48,297,San Antonio
+31301,48,311,San Antonio
+31301,48,325,San Antonio
+31301,48,493,San Antonio
+31302,48,25,Beeville
+31302,48,255,Beeville
+31303,48,171,Kerrville
+31303,48,265,Kerrville
+31304,48,319,Mason
+31401,48,3,Midland
+31401,48,103,Midland
+31401,48,135,Midland
+31401,48,317,Midland
+31401,48,329,Midland
+31401,48,461,Midland
+31402,48,301,Pecos
+31402,48,389,Pecos
+31402,48,475,Pecos
+31402,48,495,Pecos
+31403,48,105,Fort Stockton
+31403,48,371,Fort Stockton
+31404,48,43,Alpine
+31404,48,243,Alpine
+31404,48,377,Alpine
+31501,48,127,Crystal City
+31501,48,507,Crystal City
+31502,48,163,Pearsall
+31502,48,283,Pearsall
+31503,48,247,Laredo
+31503,48,479,Laredo
+31503,48,505,Laredo
+31600,48,61,Brownsville
+31600,48,215,Brownsville
+31600,48,427,Brownsville
+31600,48,489,Brownsville
+31700,48,7,Corpus Christi
+31700,48,47,Corpus Christi
+31700,48,131,Corpus Christi
+31700,48,249,Corpus Christi
+31700,48,261,Corpus Christi
+31700,48,273,Corpus Christi
+31700,48,355,Corpus Christi
+31700,48,391,Corpus Christi
+31700,48,409,Corpus Christi
+31800,48,41,College Station
+31800,48,51,College Station
+31800,48,185,College Station
+31800,48,395,College Station
+31900,48,39,Pearland
+31900,48,321,Pearland
+31900,48,481,Pearland
+32000,48,15,Houston
+32000,48,71,Houston
+32000,48,157,Houston
+32000,48,167,Houston
+32000,48,201,Houston
+32000,48,291,Houston
+32000,48,339,Houston
+32000,48,407,Houston
+32000,48,473,Houston
+32000,48,477,Houston
+32100,48,199,Beaumont
+32100,48,241,Beaumont
+32100,48,245,Beaumont
+32100,48,351,Beaumont
+32100,48,361,Beaumont
+32100,48,373,Beaumont
+32100,48,457,Beaumont
+32201,48,5,Huntsville
+32201,48,225,Huntsville
+32201,48,313,Huntsville
+32201,48,455,Huntsville
+32201,48,471,Huntsville
+32202,48,347,Nacogdoches
+32202,48,403,Nacogdoches
+32202,48,405,Nacogdoches
+32202,48,419,Nacogdoches
+32301,48,81,San Angelo
+32301,48,235,San Angelo
+32301,48,413,San Angelo
+32301,48,431,San Angelo
+32301,48,451,San Angelo
+32302,48,95,Brady
+32302,48,307,Brady
+32302,48,399,Brady
+32303,48,267,Junction
+32303,48,327,Junction
+32304,48,137,Uvalde
+32304,48,385,Uvalde
+32304,48,435,Uvalde
+32304,48,463,Uvalde
+32305,48,271,Del Rio
+32305,48,443,Del Rio
+32305,48,465,Del Rio
+32306,48,323,Eagle Pass
+32401,48,33,Big Spring
+32401,48,115,Big Spring
+32401,48,173,Big Spring
+32401,48,227,Big Spring
+32401,48,383,Big Spring
+32402,48,151,Sweetwater
+32402,48,353,Sweetwater
+32403,48,263,Snyder
+32403,48,335,Snyder
+32403,48,415,Snyder
+32501,48,59,Abilene
+32501,48,133,Abilene
+32501,48,253,Abilene
+32501,48,417,Abilene
+32501,48,429,Abilene
+32501,48,441,Abilene
+32502,48,75,Childress
+32502,48,101,Childress
+32503,48,125,Haskell
+32503,48,207,Haskell
+32503,48,269,Haskell
+32503,48,275,Haskell
+32503,48,433,Haskell
+32601,48,9,Wichita Falls
+32601,48,77,Wichita Falls
+32601,48,485,Wichita Falls
+32602,48,237,Graham
+32602,48,447,Graham
+32602,48,503,Graham
+32603,48,23,Seymour
+32604,48,155,Vernon
+32604,48,197,Vernon
+32604,48,487,Vernon
+32701,48,49,Brownwood
+32701,48,83,Brownwood
+32701,48,333,Brownwood
+32701,48,411,Brownwood
+32702,48,93,Stephenville
+32702,48,143,Stephenville
+32702,48,193,Stephenville
+32801,48,35,Waco
+32801,48,145,Waco
+32801,48,217,Waco
+32801,48,309,Waco
+32802,48,161,Corsicana
+32802,48,289,Corsicana
+32802,48,293,Corsicana
+32802,48,349,Corsicana
+32900,48,27,Killeen
+32900,48,99,Killeen
+32900,48,281,Killeen
+33000,48,221,Fort Worth
+33000,48,251,Fort Worth
+33000,48,337,Fort Worth
+33000,48,363,Fort Worth
+33000,48,367,Fort Worth
+33000,48,425,Fort Worth
+33000,48,439,Fort Worth
+33000,48,497,Fort Worth
+33100,48,85,Dallas
+33100,48,97,Dallas
+33100,48,113,Dallas
+33100,48,121,Dallas
+33100,48,139,Dallas
+33100,48,257,Dallas
+33100,48,397,Dallas
+33200,48,119,Paris
+33200,48,223,Paris
+33200,48,231,Paris
+33200,48,277,Paris
+33200,48,379,Paris
+33200,48,387,Paris
+33300,48,1,Tyler
+33300,48,73,Tyler
+33300,48,213,Tyler
+33300,48,423,Tyler
+33300,48,467,Tyler
+33300,48,499,Tyler
+33400,48,183,Longview
+33400,48,203,Longview
+33400,48,315,Longview
+33400,48,365,Longview
+33400,48,401,Longview
+33400,48,459,Longview
+33500,5,81,Texarkana
+33500,5,91,Texarkana
+33500,48,37,Texarkana
+33500,48,63,Texarkana
+33500,48,67,Texarkana
+33500,48,159,Texarkana
+33500,48,343,Texarkana
+33500,48,449,Texarkana
+33601,40,31,Lawton
+33601,40,33,Lawton
+33601,40,67,Lawton
+33601,40,137,Lawton
+33602,40,55,Altus
+33602,40,57,Altus
+33602,40,65,Altus
+33602,40,75,Altus
+33603,40,141,Frederick
+33700,40,19,Ardmore
+33700,40,49,Ardmore
+33700,40,69,Ardmore
+33700,40,85,Ardmore
+33700,40,95,Ardmore
+33700,40,99,Ardmore
+33801,40,9,Elk City
+33801,40,39,Elk City
+33801,40,129,Elk City
+33801,40,149,Elk City
+33802,40,15,Chickasha
+33802,40,51,Chickasha
+33803,40,17,Oklahoma City
+33803,40,27,Oklahoma City
+33803,40,73,Oklahoma City
+33803,40,81,Oklahoma City
+33803,40,83,Oklahoma City
+33803,40,87,Oklahoma City
+33803,40,109,Oklahoma City
+33803,40,125,Oklahoma City
+33803,40,133,Oklahoma City
+33901,40,5,Ada
+33901,40,29,Ada
+33901,40,63,Ada
+33901,40,123,Ada
+33902,40,13,Sherman
+33902,48,147,Sherman
+33902,48,181,Sherman
+34001,5,19,Hot Springs
+34001,5,51,Hot Springs
+34001,5,57,Hot Springs
+34001,5,59,Hot Springs
+34001,5,61,Hot Springs
+34001,5,97,Hot Springs
+34001,5,99,Hot Springs
+34001,5,109,Hot Springs
+34002,5,113,Idabel
+34002,5,133,Idabel
+34002,40,23,Idabel
+34002,40,89,Idabel
+34002,40,127,Idabel
+34101,2,13,Sand Point
+34102,2,20,Anchorage
+34102,2,122,Anchorage
+34102,2,170,Anchorage
+34103,2,261,Valdez
+34104,2,60,Bristol Bay
+34105,2,188,Kotzebue
+34106,2,180,Nome
+34107,2,70,Dillingham
+34107,2,164,Dillingham
+34108,2,150,Kodiak
+34109,2,100,Juneau
+34109,2,105,Juneau
+34109,2,110,Juneau
+34109,2,230,Juneau
+34110,2,195,Sitka
+34110,2,220,Sitka
+34110,2,275,Sitka
+34111,2,130,Ketchikan
+34111,2,198,Ketchikan
+34112,2,50,Bethel
+34113,2,185,Barrow
+34114,2,16,Unalaska
+34115,2,68,Fairbanks
+34115,2,90,Fairbanks
+34115,2,240,Fairbanks
+34115,2,290,Fairbanks
+34201,30,5,Havre
+34201,30,41,Havre
+34201,30,51,Havre
+34202,30,35,Shelby
+34202,30,73,Shelby
+34202,30,101,Shelby
+34203,30,13,Great Falls
+34203,30,15,Great Falls
+34203,30,45,Great Falls
+34203,30,99,Great Falls
+34204,30,27,Lewistown
+34204,30,69,Lewistown
+34301,56,3,Cody
+34301,56,29,Cody
+34302,56,17,Worland
+34302,56,43,Worland
+34303,56,13,Riverton
+34304,30,3,Sheridan
+34304,56,19,Sheridan
+34304,56,33,Sheridan
+34305,30,17,Miles City
+34305,30,79,Miles City
+34306,30,33,Jordan
+34307,30,75,Colstrip
+34307,30,87,Colstrip
+34307,30,103,Colstrip
+34308,30,9,Billings
+34308,30,37,Billings
+34308,30,65,Billings
+34308,30,95,Billings
+34308,30,111,Billings
+34309,30,59,Harlowton
+34309,30,107,Harlowton
+34401,30,1,Dillon
+34402,30,31,Bozeman
+34402,30,57,Bozeman
+34402,30,67,Bozeman
+34402,30,97,Bozeman
+34403,30,7,Helena
+34403,30,43,Helena
+34403,30,49,Helena
+34404,30,23,Butte-Silver Bow
+34404,30,39,Butte-Silver Bow
+34404,30,77,Butte-Silver Bow
+34404,30,93,Butte-Silver Bow
+34501,16,21,Bonners Ferry
+34502,30,53,Libby
+34503,30,29,Kalispell
+34503,30,47,Kalispell
+34503,30,89,Kalispell
+34504,30,61,Missoula
+34504,30,63,Missoula
+34504,30,81,Missoula
+34601,56,5,Gillette
+34601,56,11,Gillette
+34601,56,45,Gillette
+34602,56,7,Rawlins
+34603,56,9,Casper
+34603,56,25,Casper
+34604,56,27,Lusk
+34701,15,3,Honolulu
+34702,15,7,Kapaa
+34703,15,9,Kahului
+34801,35,7,Las Vegas
+34801,35,33,Las Vegas
+34801,35,47,Las Vegas
+34802,35,28,Santa Fe
+34802,35,39,Santa Fe
+34802,35,49,Santa Fe
+34802,35,55,Santa Fe
+34803,35,21,Tucumcari
+34803,35,37,Tucumcari
+34804,35,59,Clayton
+34805,8,3,Alamosa
+34805,8,21,Alamosa
+34805,8,23,Alamosa
+34805,8,79,Alamosa
+34805,8,105,Alamosa
+34805,8,109,Alamosa
+34901,35,1,Albuquerque
+34901,35,6,Albuquerque
+34901,35,43,Albuquerque
+34901,35,57,Albuquerque
+34901,35,61,Albuquerque
+34902,35,3,Socorro
+34902,35,53,Socorro
+35001,4,7,Phoenix
+35001,4,13,Phoenix
+35001,4,21,Phoenix
+35002,4,9,Safford
+35002,4,11,Safford
+35100,4,3,Tucson
+35100,4,19,Tucson
+35100,4,23,Tucson
+35201,8,29,Grand Junction
+35201,8,77,Grand Junction
+35201,8,85,Grand Junction
+35201,8,91,Grand Junction
+35201,8,113,Grand Junction
+35202,8,51,Gunnison
+35202,8,53,Gunnison
+35300,8,7,Farmington
+35300,8,67,Farmington
+35300,8,111,Farmington
+35300,35,45,Farmington
+35401,4,5,Flagstaff
+35401,4,25,Flagstaff
+35401,49,25,Flagstaff
+35402,8,33,Cortez
+35402,8,83,Cortez
+35402,49,37,Cortez
+35500,4,1,Gallup
+35500,4,17,Gallup
+35500,35,31,Gallup
+35600,15,1,Hilo
+35701,16,13,Twin Falls
+35701,16,25,Twin Falls
+35701,16,47,Twin Falls
+35701,16,53,Twin Falls
+35701,16,63,Twin Falls
+35701,16,83,Twin Falls
+35702,16,31,Burley
+35702,16,67,Burley
+35801,16,1,Boise City
+35801,16,15,Boise City
+35801,16,27,Boise City
+35801,16,39,Boise City
+35801,16,45,Boise City
+35801,16,73,Boise City
+35802,16,75,Ontario
+35802,16,87,Ontario
+35802,41,45,Ontario
+35803,16,3,McCall
+35803,16,85,McCall
+35901,49,1,St. George
+35901,49,21,St. George
+35901,49,53,St. George
+35902,49,7,Price
+35902,49,15,Price
+35902,49,39,Price
+35903,49,19,Moab
+35904,49,17,Richfield
+35904,49,31,Richfield
+35904,49,41,Richfield
+35905,49,55,Loa
+36000,49,23,Provo
+36000,49,27,Provo
+36000,49,49,Provo
+36100,49,11,Salt Lake City
+36100,49,29,Salt Lake City
+36100,49,35,Salt Lake City
+36100,49,43,Salt Lake City
+36100,49,45,Salt Lake City
+36100,49,51,Salt Lake City
+36100,49,57,Salt Lake City
+36200,16,41,Logan
+36200,16,71,Logan
+36200,49,3,Logan
+36200,49,5,Logan
+36301,16,5,Pocatello
+36301,16,11,Pocatello
+36301,16,19,Pocatello
+36301,16,23,Pocatello
+36301,16,33,Pocatello
+36301,16,43,Pocatello
+36301,16,51,Pocatello
+36301,16,65,Pocatello
+36301,16,77,Pocatello
+36302,16,37,Salmon
+36302,16,59,Salmon
+36303,16,81,Jackson
+36303,56,39,Jackson
+36401,8,81,Steamboat Springs
+36401,8,103,Steamboat Springs
+36401,8,107,Steamboat Springs
+36402,49,13,Vernal
+36402,49,47,Vernal
+36403,16,7,Soda Springs
+36403,16,29,Soda Springs
+36404,49,9,Rock Springs
+36404,49,33,Rock Springs
+36404,56,23,Rock Springs
+36404,56,35,Rock Springs
+36404,56,37,Rock Springs
+36404,56,41,Rock Springs
+36501,6,35,Klamath Falls
+36501,6,49,Klamath Falls
+36501,6,93,Klamath Falls
+36501,41,35,Klamath Falls
+36502,41,25,Burns
+36503,41,37,Lakeview
+36600,6,89,Redding
+36600,6,103,Redding
+36700,6,23,Eureka
+36700,6,105,Eureka
+36800,41,29,Medford
+36800,41,33,Medford
+36901,6,15,Crescent City
+36901,41,15,Crescent City
+36902,41,11,Roseburg
+36902,41,19,Roseburg
+37000,6,43,Modesto
+37000,6,47,Modesto
+37000,6,99,Modesto
+37000,6,109,Modesto
+37100,6,29,Bakersfield
+37200,6,19,Fresno
+37200,6,31,Fresno
+37200,6,39,Fresno
+37200,6,107,Fresno
+37300,6,7,Chico
+37300,6,11,Chico
+37300,6,21,Chico
+37300,6,101,Chico
+37300,6,115,Chico
+37400,6,3,Sacramento
+37400,6,5,Sacramento
+37400,6,9,Sacramento
+37400,6,17,Sacramento
+37400,6,57,Sacramento
+37400,6,61,Sacramento
+37400,6,67,Sacramento
+37400,6,77,Sacramento
+37400,6,113,Sacramento
+37400,32,5,Sacramento
+37500,6,53,San Jose
+37500,6,69,San Jose
+37500,6,85,San Jose
+37500,6,87,San Jose
+37601,32,7,Elko
+37601,32,11,Elko
+37601,32,15,Elko
+37601,32,33,Elko
+37602,32,13,Winnemucca
+37602,32,27,Winnemucca
+37603,6,63,Portola
+37603,6,91,Portola
+37604,32,1,Reno
+37604,32,19,Reno
+37604,32,29,Reno
+37604,32,31,Reno
+37604,32,510,Reno
+37700,6,33,Santa Rosa
+37700,6,45,Santa Rosa
+37700,6,97,Santa Rosa
+37800,6,1,San Francisco
+37800,6,13,San Francisco
+37800,6,41,San Francisco
+37800,6,55,San Francisco
+37800,6,75,San Francisco
+37800,6,81,San Francisco
+37800,6,95,San Francisco
+37901,4,15,Las Vegas
+37901,32,3,Las Vegas
+37901,32,9,Las Vegas
+37901,32,17,Las Vegas
+37901,32,23,Las Vegas
+37902,32,21,Reno
+37903,6,27,Mammoth Lakes
+37903,6,51,Mammoth Lakes
+38000,6,73,San Diego
+38100,4,27,Yuma
+38100,6,25,Yuma
+38200,6,79,Santa Barbara
+38200,6,83,Santa Barbara
+38300,4,12,Los Angeles
+38300,6,37,Los Angeles
+38300,6,59,Los Angeles
+38300,6,65,Los Angeles
+38300,6,71,Los Angeles
+38300,6,111,Los Angeles
+38401,16,35,Lewiston
+38401,16,49,Lewiston
+38401,16,61,Lewiston
+38401,16,69,Lewiston
+38401,53,3,Lewiston
+38401,53,23,Lewiston
+38402,16,57,Pullman
+38402,53,75,Pullman
+38501,53,1,Moses Lake
+38501,53,25,Moses Lake
+38502,53,7,Wenatchee
+38502,53,17,Wenatchee
+38601,16,9,Spokane
+38601,16,17,Spokane
+38601,16,55,Spokane
+38601,16,79,Spokane
+38601,53,43,Spokane
+38601,53,51,Spokane
+38601,53,63,Spokane
+38602,53,19,Colville
+38602,53,47,Colville
+38602,53,65,Colville
+38700,41,7,Longview
+38700,53,15,Longview
+38700,53,27,Longview
+38700,53,49,Longview
+38700,53,69,Longview
+38801,41,5,Portland
+38801,41,9,Portland
+38801,41,51,Portland
+38801,41,67,Portland
+38801,53,11,Portland
+38801,53,59,Portland
+38802,41,27,The Dalles
+38802,41,55,The Dalles
+38802,41,65,The Dalles
+38802,53,39,The Dalles
+38901,41,3,Eugene
+38901,41,39,Eugene
+38901,41,43,Eugene
+38901,41,47,Eugene
+38901,41,53,Eugene
+38901,41,71,Eugene
+38902,41,41,Newport
+38902,41,57,Newport
+39000,53,37,Yakima
+39000,53,77,Yakima
+39100,41,49,Kennewick
+39100,41,59,Kennewick
+39100,53,5,Kennewick
+39100,53,13,Kennewick
+39100,53,21,Kennewick
+39100,53,71,Kennewick
+39201,41,1,La Grande
+39201,41,61,La Grande
+39202,41,63,Enterprise
+39203,41,13,Bend
+39203,41,17,Bend
+39203,41,31,Bend
+39204,41,21,Condon
+39204,41,69,Condon
+39205,41,23,John Day
+39301,53,55,Friday Harbor
+39302,53,73,Bellingham
+39303,53,9,Port Angeles
+39303,53,31,Port Angeles
+39400,53,29,Seattle
+39400,53,33,Seattle
+39400,53,35,Seattle
+39400,53,41,Seattle
+39400,53,45,Seattle
+39400,53,53,Seattle
+39400,53,57,Seattle
+39400,53,61,Seattle
+39400,53,67,Seattle
