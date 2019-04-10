@@ -1,8 +1,8 @@
 # Economic Opportunity Census Data Analysis
 ## Economic opportunity by Race
-To understand economic mobility between racial groups in the United States I compared average income percentile of children, given the income percentile of their parents. Data was aggregated amongst gender and race:
+To understand economic mobility between racial groups in the United States I compared average income percentile of children, given the income percentile of their parents. For example, a child experiences upward economic mobility if their income percentile is greater than their parent's income percentile.  Data was aggregated amongst gender and race:
 
-### AIAN Children
+### AIAN (American Indian and Alaska Native Resources) Children
 ![alt text](charts/AIAN_children.png)
 
 ### White Children
@@ -19,10 +19,10 @@ To understand economic mobility between racial groups in the United States I com
 
 
 ### Insights
-I fit linear regressions for each gender. I then calculated the integral of each line to get an understanding of the amount of economic mobility within a race and gender.  Asian males experienced the most economic mobility where AIAN females experienced the least economic mobility.  Black children was the only racial group where males experienced less economic mobility females. 
+I fit linear regressions for each gender. I then calculated the integral of each line to get an understanding of the amount of economic mobility within a race and gender.  Asian males experienced the most economic mobility where AIAN females experienced the least economic mobility.  Black children was the only racial group where males experienced less economic mobility than females. 
 
 ## Economic opportunity by Location 
-To understand how economic opportunity varies by location, I analyzed the average income percentile of children whose parents were in the 25th percentile, among children who grew up in a particular Census tract. I mapped census tracts to commuting zones and plotted the top and bottom five:
+To understand how economic opportunity varies by location, I analyzed the average income percentile of children whose parents were in the 25th percentile, among children who grew up in a particular Census tract. I mapped census tracts to commuting zones and plotted the top and bottom five. A commuting zone is a geographic area used in population and economic analysis. There are many census tracts per commuting zone.  I calculated the commuting zone average economic mobility using a weighted average of the average economic mobility of each census tract within the commuting zone.
 
 ### Top and Bottom Five Economic Mobility Commuting Zones
 ![alt text](charts/top_bottom.png)
