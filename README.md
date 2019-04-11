@@ -19,7 +19,14 @@ To understand economic mobility between racial groups in the United States I com
 
 
 ### Insights
-I fit linear regressions for each gender. I then calculated the integral of each line to get an understanding of the amount of economic mobility within a race and gender.  Asian males experienced the most economic mobility where AIAN females experienced the least economic mobility.  Black children was the only racial group where males experienced less economic mobility than females. 
+I fit linear regressions for each gender. All 10 linear regressions suggest strong positive correlations between income percentile of parents and the income percentile of children. 
+
+To understand the difference in economic mobility between genders, I ran another linear regression including gender as a variable while controlling for race `child_pctile = B_0 + (B_1 * par_pctile) + (B_2 * gender)`. The `B_2` coefficient can tell us the expected difference in economic mobility between genders within a race. (`gender = 0 | gender = F and gender = 1 | gender = M`)
+
+![alt text](charts/B_2.png)
+
+The graphs above and the `B_2` coefficients show us there are large differences in economic mobility between gender in white and hispanic children. Black children was the only racial group where males experienced less economic mobility than females. 
+
 
 ## Economic opportunity by Location 
 To understand how economic opportunity varies by location, I analyzed the average income percentile of children whose parents were in the 25th percentile, among children who grew up in a particular Census tract. I mapped census tracts to commuting zones and plotted the top and bottom five. A commuting zone is a geographic area used in population and economic analysis. There are many census tracts per commuting zone.  I calculated the commuting zone average economic mobility using a weighted average of the average economic mobility of each census tract within the commuting zone.
