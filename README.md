@@ -21,11 +21,11 @@ To understand economic mobility between racial groups in the United States I com
 ### Insights
 I fit linear regressions for each gender. All 10 linear regressions suggest strong positive correlations between income percentile of parents and the income percentile of children. 
 
-To understand the difference in economic mobility between genders, I ran another linear regression including gender as a variable while controlling for race `child_pctile = B_0 + (B_1 * par_pctile) + (B_2 * gender)`. The `B_2` coefficient can tell us the expected difference in economic mobility between genders within a race. (`gender = 0 | gender = F and gender = 1 | gender = M`)
+To understand the difference in economic mobility between genders, I ran another linear regression including gender as a variable while controlling for race `child_pctile = B_0 + (B_1 * par_pctile) + (B_2 * gender)`. The `B_2` coefficient can tell us the expected difference in economic mobility between genders within a race. (`gender = 0 | gender = F and gender = 1 | gender = M`) The confidence interval of the coefficients are also included in the table.
 
 ![alt text](charts/B_2.png)
 
-The graphs above and the `B_2` coefficients show us there are large differences in economic mobility between gender in white and hispanic children. Black children was the only racial group where males experienced less economic mobility than females. 
+The graphs above and the `B_2` coefficients show us there are significant differences in economic mobility between gender in white and hispanic children. Black children was the only racial group where males experienced less economic mobility than females. 
 
 
 ## Economic opportunity by Location 
