@@ -1,5 +1,5 @@
 # Economic Opportunity Census Data Analysis
-## Economic opportunity by Race
+## Economic Opportunity By Race
 To understand economic mobility between racial groups in the United States I compared average income percentile of children, given the income percentile of their parents.  Data was aggregated amongst gender and race:
 
 ### AIAN (American Indian and Alaska Native Resources) Children
@@ -28,7 +28,7 @@ To understand the difference in economic mobility between genders, I ran another
 The graphs above and the `B_2` coefficients show us there are significant differences in economic mobility between gender in white and hispanic children. Black children was the only racial group where males experienced less economic mobility than females. 
 
 
-## Economic opportunity by Location 
+## Economic Opportunity By Location 
 To understand how economic opportunity varies by location, I analyzed the average income percentile of children whose parents were in the 25th percentile, among children who grew up in a particular Census tract. I mapped census tracts to commuting zones and plotted the top and bottom five. A commuting zone is a geographic area used in population and economic analysis. There are many census tracts per commuting zone.  I calculated the commuting zone average economic mobility using a weighted average of the average economic mobility of each census tract within the commuting zone.
 
 ### Top and Bottom Five Economic Mobility Commuting Zones
